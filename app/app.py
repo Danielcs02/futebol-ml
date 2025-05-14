@@ -9,7 +9,7 @@ st.set_page_config(page_title="Previsões Brasileirão", layout="wide")
 # Carregar modelo
 @st.cache_resource
 def carregar_modelo():
-    return joblib.load("../models/modelo_brasileirao_xgb.pkl")
+    return joblib.load("models/modelo_brasileirao_xgb.pkl")
 
 modelo = carregar_modelo()
 
