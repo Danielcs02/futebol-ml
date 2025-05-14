@@ -13,45 +13,62 @@ def carregar_modelo():
 
 modelo = carregar_modelo()
 
+# Carregar dados históricos
+@st.cache_data
+def carregar_dados():
+    return pd.read_csv("data/brasileirao/brasileirao_scores.csv", encoding='cp1252')
+
+df = carregar_dados()
+
+# Features usadas no modelo
+features_usadas = [
+    'Home_xG_Avg', 'Away_xG_Avg', 'Team_Rank', 'Away_Team_Rank',
+    'Total_Goals_For', 'Home_Goals_Against', 'Total_Goals_Against',
+    'Away_Goals_Against', 'Last_5_Wins'
+]
+
 # Título
 st.title("⚽ Previsões de Gols - Brasileirão")
 
-# Upload de arquivo CSV
-st.header("📤 Envie os jogos para prever")
-arquivo = st.file_uploader("Escolha um CSV com os jogos", type=["csv"])
+# Selecionar rodada
+rodadas_disponiveis = sorted(df["k"].dropna().unique())
+rodada = st.selectbox("Escolha a rodada:", rodadas_disponiveis)
 
-# Previsão
-if arquivo:
-    df_input = pd.read_csv(arquivo)
+# Filtrar confrontos da rodada
+confrontos_df = df[df["k"] == rodada][["Home", "Away"]]
+confrontos_lista = confrontos_df.apply(lambda row: f"{row['Home']} x {row['Away']}", axis=1).tolist()
+jogo_escolhido = st.selectbox("Escolha o confronto:", confrontos_lista)
 
-    st.subheader("🔍 Visualização dos dados enviados")
-    st.dataframe(df_input)
+# Prever e exibir estatísticas
+if jogo_escolhido:
+    time_casa, time_fora = jogo_escolhido.split(" x ")
+    linha_jogo = df[(df["Home"] == time_casa) & (df["Away"] == time_fora)]
 
-    # Garantir que as colunas esperadas existam
-    colunas_esperadas = ['Home_xG_Avg', 'Away_xG_Avg', 'Team_Rank', 'Away_Team_Rank',
-                         'Total_Goals_For', 'Home_Goals_Against', 'Total_Goals_Against',
-                         'Away_Goals_Against', 'Last_5_Wins']
-    if not all(col in df_input.columns for col in colunas_esperadas):
-        st.error("O CSV está faltando uma ou mais colunas necessárias para previsão.")
-    else:
-        # Imputação e previsão
+    if not linha_jogo.empty:
+        linha = linha_jogo.iloc[0]
+        st.write("🧩 Colunas disponíveis na linha selecionada:", linha.index.tolist())
+        X_jogo = linha[features_usadas].to_frame().T
+
+        # Imputação
         imputer = SimpleImputer(strategy='mean')
-        X_novo = imputer.fit_transform(df_input[colunas_esperadas])
-        pred = modelo.predict(X_novo)
+        X_imputado = imputer.fit_transform(df[features_usadas])  # fit no dataset inteiro
+        X_jogo_imputado = imputer.transform(X_jogo)
 
-        df_input['Gols_Previstos'] = pred
+        # Previsão
+        pred = modelo.predict(X_jogo_imputado)
+        st.metric("🔮 Gols previstos para o mandante", f"{pred[0]:.2f}")
 
-        st.success("✅ Previsões geradas!")
-        st.dataframe(df_input[['Home', 'Away', 'Gols_Previstos']])
+        # Estatísticas dos times
+        st.subheader("📊 Estatísticas recentes do time da casa")
+        st.dataframe(df[df["Home"] == time_casa][features_usadas].describe())
 
-        # Botão para download
-        csv_resultado = df_input.to_csv(index=False).encode('utf-8')
-        st.download_button("📥 Baixar resultados", csv_resultado, "previsoes.csv", "text/csv")
+        st.subheader("📊 Estatísticas recentes do time visitante")
+        st.dataframe(df[df["Away"] == time_fora][features_usadas].describe())
 
 # Tabela do Brasileirão
 st.header("📊 Tabela Atual do Brasileirão")
 try:
-    tabela = pd.read_csv("../data/brasileirao/tabela_brasileirao.csv", encoding='utf-8-sig')
+    tabela = pd.read_csv("data/brasileirao/tabela_brasileirao.csv", encoding='utf-8-sig')
     st.dataframe(tabela)
 except:
     st.warning("⚠️ Não foi possível carregar a tabela.")

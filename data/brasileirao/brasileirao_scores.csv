@@ -1,430 +1,430 @@
-k,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
-1,Sat,3/29/2025,18:30,São Paulo,2.4,0–0,0.4,Sport Recife,,Estádio do Morumbi,Felipe Fernandes de Lima,Match Report,
-1,Sat,3/29/2025,18:30,Juventude,0.7,2–0,0.6,Vitória,,Estádio Alfredo Jaconi,Paulo Cesar Zanovelli da Silva,Match Report,
-1,Sat,3/29/2025,18:30,Fortaleza,0.9,2–0,0.9,Fluminense,,Estádio Castelão,Rodrigo José Pereira de Lima,Match Report,
-1,Sat,3/29/2025,18:30,Cruzeiro,1.2,2–1,1.7,Mirassol,"40,837",Estádio Governador Magalhães Pinto,Alex Gomes Stefano,Match Report,
-1,Sat,3/29/2025,18:30,Grêmio,0.8,2–1,2.9,Atlético Mineiro,,Arena do Grêmio,Raphael Claus,Match Report,
-1,Sun,3/30/2025,16:00,Palmeiras,1.3,0–0,0.9,Botafogo (RJ),,Allianz Parque,Ramon Abatti,Match Report,
-1,Sun,3/30/2025,18:30,Vasco da Gama,1.3,2–1,2,Santos,"19,550",Estádio Club de Regatas Vasco da Gama,Rafael Klein,Match Report,
-1,Sun,3/30/2025,20:00,Bahia,1.4,1–1,0.5,Corinthians,,Casa de Apostas Arena Fonte Nova,Bruno Arleu,Match Report,
-1,Sat,3/29/2025,21:00,Flamengo,1.8,1–1,0.4,Internacional,,Estadio Jornalista Mário Filho,Davi de Oliveira Lacerda,Match Report,
-1,Mon,3/31/2025,20:00,RB Bragantino,1.2,2–2,0.9,Ceará,,Estádio Nabi Abi Chedid,Bruno Pereira Vasconcelos,Match Report,
-2,Sat,4/5/2025,18:30,Corinthians,1,3–0,0.6,Vasco da Gama,,Neo Química Arena,Anderson Daronco,Match Report,
-2,Sat,4/5/2025,18:30,Ceará,1.3,2–0,0.9,Grêmio,,Estádio Castelão,Edina Alves,Match Report,
-2,Sun,4/6/2025,16:00,Atlético Mineiro,1.4,0–0,0.3,São Paulo,,Estádio Governador Magalhães Pinto,Ramon Abatti,Match Report,
-2,Sun,4/6/2025,16:00,Fluminense,2,2–1,0.7,RB Bragantino,,Estadio Jornalista Mário Filho,Wilton Pereira Sampaio,Match Report,
-2,Sun,4/6/2025,18:30,Mirassol,1.9,1–1,1,Fortaleza,,Estádio José Maria de Campos Maia,Savio Pereira,Match Report,
-2,Sun,4/6/2025,18:30,Internacional,2.4,3–0,0.3,Cruzeiro,,Estádio José Pinheiro Borba,Marcelo de Lima Henrique,Match Report,
-2,Sun,4/6/2025,18:30,Vitória,0.3,1–2,1.6,Flamengo,,Estádio Manoel Barradas,Rafael Klein,Match Report,
-2,Sun,4/6/2025,18:30,Sport Recife,0.5,1–2,2,Palmeiras,,Estádio Adelmar da Costa Carvalho,Bruno Arleu,Match Report,
-2,Sun,4/6/2025,20:30,Santos,1.3,2–2,2.2,Bahia,,Estádio Urbano Caldeira,Alex Gomes Stefano,Match Report,
-2,Sat,4/5/2025,21:00,Botafogo (RJ),1.7,2–0,0.6,Juventude,,Estádio Nilton Santos,Rodrigo José Pereira de Lima,Match Report,
-3,Sat,4/12/2025,16:00,Juventude,2,2–1,1.3,Ceará,,Estádio Alfredo Jaconi,Lucas Casagrande,Match Report,
-3,Sat,4/12/2025,16:00,RB Bragantino,2,1–0,0.7,Botafogo (RJ),,Estádio Nabi Abi Chedid,Anderson Daronco,Match Report,
-3,Sat,4/12/2025,18:30,Palmeiras,1.4,2–0,0.3,Corinthians,,Arena Barueri,Rafael Klein,Match Report,
-3,Sun,4/13/2025,16:00,Bahia,1.7,1–1,0.5,Mirassol,,Casa de Apostas Arena Fonte Nova,Braulio Machado,Match Report,
-3,Sun,4/13/2025,17:30,Grêmio,0.3,0–2,1,Flamengo,"23,367",Arena do Grêmio,Ramon Abatti,Match Report,
-3,Sun,4/13/2025,17:30,São Paulo,0.4,1–1,1.1,Cruzeiro,"37,566",Estádio do Morumbi,Rodrigo José Pereira de Lima,Match Report,
-3,Sun,4/13/2025,19:30,Fluminense,0.7,1–0,0.1,Santos,,Estadio Jornalista Mário Filho,Felipe Fernandes de Lima,Match Report,
-3,Sun,4/13/2025,20:00,Fortaleza,0.6,0–0,0.3,Internacional,,Estádio Castelão,Flavio Rodrigues de Souza,Match Report,
-3,Sun,4/13/2025,20:30,Atlético Mineiro,1.8,2–2,1.3,Vitória,"23,234",Estádio Governador Magalhães Pinto,Davi de Oliveira Lacerda,Match Report,
-3,Sat,4/12/2025,21:00,Vasco da Gama,1.3,3–1,1,Sport Recife,,Estádio Club de Regatas Vasco da Gama,Wilton Pereira Sampaio,Match Report,
-4,Wed,4/16/2025,18:30,Botafogo (RJ),1.5,2–2,1.1,São Paulo,,Estádio Nilton Santos,Davi de Oliveira Lacerda,Match Report,
-4,Wed,4/16/2025,19:00,Sport Recife,0.8,0–1,1.4,RB Bragantino,"12,621",Estádio Adelmar da Costa Carvalho,Paulo Cesar Zanovelli da Silva,Match Report,
-Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
-4,Wed,4/16/2025,19:00,Mirassol,1.6,4–1,0.8,Grêmio,"4,147",Estádio José Maria de Campos Maia,Lucas Paulo Torezin,Match Report,
-4,Wed,4/16/2025,19:30,Corinthians,0.8,0–2,1.2,Fluminense,,Neo Química Arena,Rodrigo José Pereira de Lima,Match Report,
-4,Wed,4/16/2025,19:30,Internacional,1,0–1,0.9,Palmeiras,,Estádio José Pinheiro Borba,Felipe Fernandes de Lima,Match Report,
-4,Tue,4/15/2025,21:30,Ceará,2.1,2–1,1.1,Vasco da Gama,,Estádio Castelão,Denis da Silva Ribeiro Serafim,Match Report,
-4,Wed,4/16/2025,21:30,Vitória,0.9,2–1,1.1,Fortaleza,,Estádio Manoel Barradas,Raphael Claus,Match Report,
-4,Wed,4/16/2025,21:30,Flamengo,3.2,6–0,0.2,Juventude,,Estadio Jornalista Mário Filho,Matheus Delgado Candançan,Match Report,
-4,Wed,4/16/2025,21:30,Santos,1.7,2–0,0.8,Atlético Mineiro,,Estádio Urbano Caldeira,Braulio Machado,Match Report,
-4,Thu,4/17/2025,21:30,Cruzeiro,2.3,3–0,0.3,Bahia,,Estádio Governador Magalhães Pinto,Flavio Rodrigues de Souza,Match Report,
-5,Sat,4/19/2025,16:00,Corinthians,2.2,2–1,0.4,Sport Recife,"44,996",Neo Química Arena,Anderson Daronco,Match Report,
-5,Sat,4/19/2025,18:30,Vasco da Gama,0.4,0–0,1.9,Flamengo,,Estadio Jornalista Mário Filho,Raphael Claus,Match Report,
-5,Sun,4/20/2025,11:00,Juventude,1.3,2–2,2.3,Mirassol,,Estádio Alfredo Jaconi,Paulo Belence Alves dos Prazeres Filho,Match Report,
-5,Sun,4/20/2025,16:00,São Paulo,1.7,2–1,1.4,Santos,"52,436",Estádio do Morumbi,Wilton Pereira Sampaio,Match Report,
-5,Sun,4/20/2025,16:00,Atlético Mineiro,0.8,1–0,0.3,Botafogo (RJ),"24,528",Estádio Governador Magalhães Pinto,Ramon Abatti,Match Report,
-5,Sun,4/20/2025,18:30,Fluminense,1.1,1–1,0.6,Vitória,,Estadio Jornalista Mário Filho,Matheus Delgado Candançan,Match Report,
-5,Sun,4/20/2025,18:30,Fortaleza,1.2,1–2,1,Palmeiras,,Estádio Castelão,Paulo Cesar Zanovelli da Silva,Match Report,
-5,Sun,4/20/2025,20:30,RB Bragantino,1.7,1–0,0.8,Cruzeiro,,Estádio Nabi Abi Chedid,Alex Gomes Stefano,Match Report,
-5,Sat,4/19/2025,21:00,Grêmio,1.1,1–1,2,Internacional,,Arena do Grêmio,Braulio Machado,Match Report,
-5,Mon,4/21/2025,20:00,Bahia,1.7,1–0,1.2,Ceará,,Casa de Apostas Arena Fonte Nova,Rafael Klein,Match Report,
-6,Sat,4/26/2025,16:00,Internacional,1.3,3–1,0.3,Juventude,,Estádio José Pinheiro Borba,Flavio Rodrigues de Souza,Match Report,
-6,Sat,4/26/2025,18:30,Mirassol,1.8,2–2,1.6,Atlético Mineiro,,Estádio José Maria de Campos Maia,Davi de Oliveira Lacerda,Match Report,
-6,Sat,4/26/2025,18:30,Ceará,0.5,1–1,0.8,São Paulo,,Estádio Castelão,Anderson Daronco,Match Report,
-6,Sat,4/26/2025,20:00,Sport Recife,1.3,0–0,0.8,Fortaleza,,Estádio Adelmar da Costa Carvalho,Matheus Delgado Candançan,Match Report,
-6,Sun,4/27/2025,16:00,Flamengo,2.2,4–0,0.3,Corinthians,,Estadio Jornalista Mário Filho,Ramon Abatti,Match Report,
-6,Sun,4/27/2025,18:30,Vitória,1.3,1–1,1.5,Grêmio,"18,688",Estádio Manoel Barradas,Felipe Fernandes de Lima,Match Report,
-6,Sun,4/27/2025,18:30,Cruzeiro,0.9,1–0,0.8,Vasco da Gama,,Estádio Municipal Parque do Sabiá,Rafael Klein,Match Report,
-6,Sun,4/27/2025,18:30,Palmeiras,1.4,0–1,0.6,Bahia,"29,033",Allianz Parque,Wilton Pereira Sampaio,Match Report,
-6,Sun,4/27/2025,20:30,Santos,1.1,1–2,1.4,RB Bragantino,"7,679",Estádio Urbano Caldeira,Raphael Claus,Match Report,
-6,Sat,4/26/2025,21:00,Botafogo (RJ),0.9,2–0,0.3,Fluminense,,Estádio Nilton Santos,Bruno Arleu,Match Report,
-7,Sat,5/3/2025,18:30,Fluminense,1.9,2–1,1,Sport Recife,,Estadio Jornalista Mário Filho,Rafael Klein,Match Report,
-7,Sat,5/3/2025,18:30,Ceará,1.2,1–0,0.7,Vitória,,Estádio Municipal Presidente Getúlio Var...,Alex Gomes Stefano,Match Report,
-7,Sat,5/3/2025,18:30,Corinthians,3.5,4–2,0.9,Internacional,,Neo Química Arena,Paulo Cesar Zanovelli da Silva,Match Report,
-7,Fri,5/2/2025,21:30,São Paulo,1.8,0–0,1,Fortaleza,"39,502",Estádio do Morumbi,Wagner do Nascimento Magalhães,Match Report,
-Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
-7,Sun,5/4/2025,16:00,Grêmio,0.6,1–0,0.6,Santos,"27,085",Arena do Grêmio,Bruno Arleu,Match Report,
-7,Sun,5/4/2025,16:00,Vasco da Gama,0.8,0–1,1.6,Palmeiras,,Estádio Nacional de Brasília,Davi de Oliveira Lacerda,Match Report,
-7,Sun,5/4/2025,18:30,Cruzeiro,1.2,2–1,0.3,Flamengo,"52,792",Estádio Governador Magalhães Pinto,Wilton Pereira Sampaio,Match Report,
-7,Sat,5/3/2025,21:00,Bahia,2.1,1–0,1.5,Botafogo (RJ),,Casa de Apostas Arena Fonte Nova,Flavio Rodrigues de Souza,Match Report,
-7,Mon,5/5/2025,19:00,RB Bragantino,0.8,1–0,0.5,Mirassol,,Estádio Cicero de Souza Marques,Lucas Canetto Bellote,Match Report,
-7,Mon,5/5/2025,20:00,Juventude,0.7,0–1,1.3,Atlético Mineiro,,Estádio Alfredo Jaconi,Bruno Pereira Vasconcelos,Match Report,
-8,Sat,5/10/2025,16:00,Fortaleza,2.7,5–0,0.1,Juventude,,Estádio Municipal Presidente Getúlio Var...,Lucas Paulo Torezin,Match Report,
-8,Sat,5/10/2025,18:30,Mirassol,2.6,2–1,1.2,Corinthians,,Estádio José Maria de Campos Maia,João Vitor Gobi,Match Report,
-8,Sat,5/10/2025,18:30,Vitória,1.5,2–1,0.7,Vasco da Gama,,Estádio Manoel Barradas,Wilton Pereira Sampaio,Match Report,
-8,Sat,5/10/2025,18:30,Grêmio,0.6,1–1,1,RB Bragantino,,Arena do Grêmio,Davi de Oliveira Lacerda,Match Report,
-8,Sun,5/11/2025,16:00,Sport Recife,1,0–4,1.4,Cruzeiro,,Estádio Adelmar da Costa Carvalho,Raphael Claus,Match Report,
-8,Sun,5/11/2025,17:30,Palmeiras,1.4,1–0,0.9,São Paulo,,Arena Barueri,Rafael Klein,Match Report,
-8,Sun,5/11/2025,17:30,Atlético Mineiro,2.3,3–2,0.7,Fluminense,,Arena MRV,Ramon Abatti,Match Report,
-8,Sun,5/11/2025,20:00,Botafogo (RJ),0.9,4–0,1.1,Internacional,,Estádio Nilton Santos,Matheus Delgado Candançan,Match Report,
-8,Sat,5/10/2025,21:00,Flamengo,1.5,1–0,0.5,Bahia,,Estadio Jornalista Mário Filho,Anderson Daronco,Match Report,
-8,Mon,5/12/2025,20:00,Santos,0.8,0–0,0.9,Ceará,,Allianz Parque,Felipe Fernandes de Lima,Match Report,
-9,Sat,5/17/2025,16:00,Ceará,,,,Sport Recife,,Estádio Castelão,,Head-to-Head,
-9,Sat,5/17/2025,18:30,Vasco da Gama,,,,Fortaleza,,Estádio Club de Regatas Vasco da Gama,,Head-to-Head,
-9,Sun,5/18/2025,16:00,Bahia,,,,Vitória,,Casa de Apostas Arena Fonte Nova,,Head-to-Head,
-9,Sun,5/18/2025,16:00,Corinthians,,,,Santos,,Neo Química Arena,,Head-to-Head,
-9,Sun,5/18/2025,16:00,Juventude,,,,Fluminense,,Estádio Alfredo Jaconi,,Head-to-Head,
-9,Sun,5/18/2025,18:30,RB Bragantino,,,,Palmeiras,,Estádio Cicero de Souza Marques,,Head-to-Head,
-9,Sun,5/18/2025,18:30,Flamengo,,,,Botafogo (RJ),,Estadio Jornalista Mário Filho,,Head-to-Head,
-9,Sun,5/18/2025,20:30,Cruzeiro,,,,Atlético Mineiro,,Estádio Governador Magalhães Pinto,,Head-to-Head,
-9,Sun,5/18/2025,20:30,Internacional,,,,Mirassol,,Estádio José Pinheiro Borba,,Head-to-Head,
-9,Sat,5/17/2025,21:00,São Paulo,,,,Grêmio,,Estádio do Morumbi,,Head-to-Head,
-10,Sat,5/24/2025,18:30,Fluminense,,,,Vasco da Gama,,Estadio Jornalista Mário Filho,,Head-to-Head,
-10,Sat,5/24/2025,18:30,São Paulo,,,,Mirassol,,Estádio do Morumbi,,Head-to-Head,
-10,Sun,5/25/2025,11:00,Grêmio,,,,Bahia,,Arena do Grêmio,,Head-to-Head,
-10,Sun,5/25/2025,16:00,Sport Recife,,,,Internacional,,Estádio Adelmar da Costa Carvalho,,Head-to-Head,
-10,Sun,5/25/2025,16:00,Palmeiras,,,,Flamengo,,Allianz Parque,,Head-to-Head,
-10,Sun,5/25/2025,18:30,Vitória,,,,Santos,,Estádio Manoel Barradas,,Head-to-Head,
-Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
-10,Sun,5/25/2025,20:30,Fortaleza,,,,Cruzeiro,,Estádio Castelão,,Head-to-Head,
-10,Sat,5/24/2025,21:00,Atlético Mineiro,,,,Corinthians,,Arena MRV,,Head-to-Head,
-10,Mon,5/26/2025,20:00,RB Bragantino,,,,Juventude,,Estádio Cicero de Souza Marques,,Head-to-Head,
-11,Fri,5/30/2025,,Corinthians,,,,Vitória,,,,Head-to-Head,
-11,Fri,5/30/2025,,Juventude,,,,Grêmio,,,,Head-to-Head,
-11,Fri,5/30/2025,,Ceará,,,,Atlético Mineiro,,,,Head-to-Head,
-11,Fri,5/30/2025,,Flamengo,,,,Fortaleza,,,,Head-to-Head,
-11,Fri,5/30/2025,,Vasco da Gama,,,,RB Bragantino,,,,Head-to-Head,
-11,Fri,5/30/2025,,Internacional,,,,Fluminense,,,,Head-to-Head,
-11,Fri,5/30/2025,,Bahia,,,,São Paulo,,,,Head-to-Head,
-11,Fri,5/30/2025,,Mirassol,,,,Sport Recife,,,,Head-to-Head,
-11,Fri,5/30/2025,,Cruzeiro,,,,Palmeiras,,,,Head-to-Head,
-11,Fri,5/30/2025,,Santos,,,,Botafogo (RJ),,,,Head-to-Head,
-10,Wed,6/4/2025,20:00,Botafogo (RJ),,,,Ceará,,Estádio Nilton Santos,,Head-to-Head,
-12,Wed,6/11/2025,,Vitória,,,,Cruzeiro,,,,Head-to-Head,
-12,Wed,6/11/2025,,Palmeiras,,,,Juventude,,,,Head-to-Head,
-12,Wed,6/11/2025,,Atlético Mineiro,,,,Internacional,,,,Head-to-Head,
-12,Wed,6/11/2025,,Botafogo (RJ),,,,Mirassol,,,,Head-to-Head,
-12,Wed,6/11/2025,,Fluminense,,,,Ceará,,,,Head-to-Head,
-12,Wed,6/11/2025,,Fortaleza,,,,Santos,,,,Head-to-Head,
-12,Wed,6/11/2025,,RB Bragantino,,,,Bahia,,,,Head-to-Head,
-12,Wed,6/11/2025,,Grêmio,,,,Corinthians,,,,Head-to-Head,
-12,Wed,6/11/2025,,Sport Recife,,,,Flamengo,,,,Head-to-Head,
-12,Wed,6/11/2025,,São Paulo,,,,Vasco da Gama,,,,Head-to-Head,
-13,Sat,7/12/2025,,Cruzeiro,,,,Grêmio,,,,Head-to-Head,
-13,Sat,7/12/2025,,Santos,,,,Palmeiras,,,,Head-to-Head,
-13,Sat,7/12/2025,,Corinthians,,,,RB Bragantino,,,,Head-to-Head,
-13,Sat,7/12/2025,,Bahia,,,,Atlético Mineiro,,,,Head-to-Head,
-13,Sat,7/12/2025,,Internacional,,,,Vitória,,,,Head-to-Head,
-13,Sat,7/12/2025,,Flamengo,,,,São Paulo,,,,Head-to-Head,
-13,Sat,7/12/2025,,Juventude,,,,Sport Recife,,,,Head-to-Head,
-Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
-13,Sat,7/12/2025,,Mirassol,,,,Fluminense,,,,Head-to-Head,
-13,Sat,7/12/2025,,Fortaleza,,,,Ceará,,,,Head-to-Head,
-13,Sat,7/12/2025,,Vasco da Gama,,,,Botafogo (RJ),,,,Head-to-Head,
-14,Wed,7/16/2025,,Juventude,,,,Vasco da Gama,,,,Head-to-Head,
-14,Wed,7/16/2025,,Ceará,,,,Corinthians,,,,Head-to-Head,
-14,Wed,7/16/2025,,Palmeiras,,,,Mirassol,,,,Head-to-Head,
-14,Wed,7/16/2025,,Bahia,,,,Internacional,,,,Head-to-Head,
-14,Wed,7/16/2025,,Grêmio,,,,Fortaleza,,,,Head-to-Head,
-14,Wed,7/16/2025,,Atlético Mineiro,,,,Sport Recife,,,,Head-to-Head,
-14,Wed,7/16/2025,,Botafogo (RJ),,,,Vitória,,,,Head-to-Head,
-14,Wed,7/16/2025,,Santos,,,,Flamengo,,,,Head-to-Head,
-14,Wed,7/16/2025,,RB Bragantino,,,,São Paulo,,,,Head-to-Head,
-14,Wed,7/16/2025,,Fluminense,,,,Cruzeiro,,,,Head-to-Head,
-15,Sat,7/19/2025,,Mirassol,,,,Santos,,,,Head-to-Head,
-15,Sat,7/19/2025,,Vasco da Gama,,,,Grêmio,,,,Head-to-Head,
-15,Sat,7/19/2025,,Flamengo,,,,Fluminense,,,,Head-to-Head,
-15,Sat,7/19/2025,,Palmeiras,,,,Atlético Mineiro,,,,Head-to-Head,
-15,Sat,7/19/2025,,Vitória,,,,RB Bragantino,,,,Head-to-Head,
-15,Sat,7/19/2025,,Cruzeiro,,,,Juventude,,,,Head-to-Head,
-15,Sat,7/19/2025,,Sport Recife,,,,Botafogo (RJ),,,,Head-to-Head,
-15,Sat,7/19/2025,,Internacional,,,,Ceará,,,,Head-to-Head,
-15,Sat,7/19/2025,,Fortaleza,,,,Bahia,,,,Head-to-Head,
-15,Sat,7/19/2025,,São Paulo,,,,Corinthians,,,,Head-to-Head,
-16,Wed,7/23/2025,,Fluminense,,,,Palmeiras,,,,Head-to-Head,
-16,Wed,7/23/2025,,Juventude,,,,São Paulo,,,,Head-to-Head,
-16,Wed,7/23/2025,,RB Bragantino,,,,Flamengo,,,,Head-to-Head,
-16,Wed,7/23/2025,,Corinthians,,,,Cruzeiro,,,,Head-to-Head,
-16,Wed,7/23/2025,,Vasco da Gama,,,,Bahia,,,,Head-to-Head,
-16,Wed,7/23/2025,,Santos,,,,Internacional,,,,Head-to-Head,
-16,Wed,7/23/2025,,Ceará,,,,Mirassol,,,,Head-to-Head,
-16,Wed,7/23/2025,,Atlético Mineiro,,,,Fortaleza,,,,Head-to-Head,
-16,Wed,7/23/2025,,Grêmio,,,,Botafogo (RJ),,,,Head-to-Head,
-Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
-16,Wed,7/23/2025,,Vitória,,,,Sport Recife,,,,Head-to-Head,
-17,Sat,7/26/2025,,São Paulo,,,,Fluminense,,,,Head-to-Head,
-17,Sat,7/26/2025,,Sport Recife,,,,Santos,,,,Head-to-Head,
-17,Sat,7/26/2025,,Internacional,,,,Vasco da Gama,,,,Head-to-Head,
-17,Sat,7/26/2025,,Botafogo (RJ),,,,Corinthians,,,,Head-to-Head,
-17,Sat,7/26/2025,,Bahia,,,,Juventude,,,,Head-to-Head,
-17,Sat,7/26/2025,,Mirassol,,,,Vitória,,,,Head-to-Head,
-17,Sat,7/26/2025,,Cruzeiro,,,,Ceará,,,,Head-to-Head,
-17,Sat,7/26/2025,,Fortaleza,,,,RB Bragantino,,,,Head-to-Head,
-17,Sat,7/26/2025,,Flamengo,,,,Atlético Mineiro,,,,Head-to-Head,
-17,Sat,7/26/2025,,Palmeiras,,,,Grêmio,,,,Head-to-Head,
-18,Sat,8/2/2025,,Botafogo (RJ),,,,Cruzeiro,,,,Head-to-Head,
-18,Sat,8/2/2025,,Atlético Mineiro,,,,RB Bragantino,,,,Head-to-Head,
-18,Sat,8/2/2025,,Fluminense,,,,Grêmio,,,,Head-to-Head,
-18,Sat,8/2/2025,,Vitória,,,,Palmeiras,,,,Head-to-Head,
-18,Sat,8/2/2025,,Corinthians,,,,Fortaleza,,,,Head-to-Head,
-18,Sat,8/2/2025,,Sport Recife,,,,Bahia,,,,Head-to-Head,
-18,Sat,8/2/2025,,Mirassol,,,,Vasco da Gama,,,,Head-to-Head,
-18,Sat,8/2/2025,,Santos,,,,Juventude,,,,Head-to-Head,
-18,Sat,8/2/2025,,Ceará,,,,Flamengo,,,,Head-to-Head,
-18,Sat,8/2/2025,,Internacional,,,,São Paulo,,,,Head-to-Head,
-19,Sat,8/9/2025,,Flamengo,,,,Mirassol,,,,Head-to-Head,
-19,Sat,8/9/2025,,Bahia,,,,Fluminense,,,,Head-to-Head,
-19,Sat,8/9/2025,,Vasco da Gama,,,,Atlético Mineiro,,,,Head-to-Head,
-19,Sat,8/9/2025,,Fortaleza,,,,Botafogo (RJ),,,,Head-to-Head,
-19,Sat,8/9/2025,,Palmeiras,,,,Ceará,,,,Head-to-Head,
-19,Sat,8/9/2025,,Grêmio,,,,Sport Recife,,,,Head-to-Head,
-19,Sat,8/9/2025,,São Paulo,,,,Vitória,,,,Head-to-Head,
-19,Sat,8/9/2025,,Juventude,,,,Corinthians,,,,Head-to-Head,
-19,Sat,8/9/2025,,Cruzeiro,,,,Santos,,,,Head-to-Head,
-19,Sat,8/9/2025,,RB Bragantino,,,,Internacional,,,,Head-to-Head,
-Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
-20,Sat,8/16/2025,,Botafogo (RJ),,,,Palmeiras,,,,Head-to-Head,
-20,Sat,8/16/2025,,Sport Recife,,,,São Paulo,,,,Head-to-Head,
-20,Sat,8/16/2025,,Vitória,,,,Juventude,,,,Head-to-Head,
-20,Sat,8/16/2025,,Mirassol,,,,Cruzeiro,,,,Head-to-Head,
-20,Sat,8/16/2025,,Atlético Mineiro,,,,Grêmio,,,,Head-to-Head,
-20,Sat,8/16/2025,,Fluminense,,,,Fortaleza,,,,Head-to-Head,
-20,Sat,8/16/2025,,Ceará,,,,RB Bragantino,,,,Head-to-Head,
-20,Sat,8/16/2025,,Santos,,,,Vasco da Gama,,,,Head-to-Head,
-20,Sat,8/16/2025,,Internacional,,,,Flamengo,,,,Head-to-Head,
-20,Sat,8/16/2025,,Corinthians,,,,Bahia,,,,Head-to-Head,
-21,Sat,8/23/2025,,Bahia,,,,Santos,,,,Head-to-Head,
-21,Sat,8/23/2025,,Palmeiras,,,,Sport Recife,,,,Head-to-Head,
-21,Sat,8/23/2025,,Vasco da Gama,,,,Corinthians,,,,Head-to-Head,
-21,Sat,8/23/2025,,Grêmio,,,,Ceará,,,,Head-to-Head,
-21,Sat,8/23/2025,,Juventude,,,,Botafogo (RJ),,,,Head-to-Head,
-21,Sat,8/23/2025,,Cruzeiro,,,,Internacional,,,,Head-to-Head,
-21,Sat,8/23/2025,,Fortaleza,,,,Mirassol,,,,Head-to-Head,
-21,Sat,8/23/2025,,RB Bragantino,,,,Fluminense,,,,Head-to-Head,
-21,Sat,8/23/2025,,São Paulo,,,,Atlético Mineiro,,,,Head-to-Head,
-21,Sat,8/23/2025,,Flamengo,,,,Vitória,,,,Head-to-Head,
-22,Sat,8/30/2025,,Corinthians,,,,Palmeiras,,,,Head-to-Head,
-22,Sat,8/30/2025,,Santos,,,,Fluminense,,,,Head-to-Head,
-22,Sat,8/30/2025,,Flamengo,,,,Grêmio,,,,Head-to-Head,
-22,Sat,8/30/2025,,Cruzeiro,,,,São Paulo,,,,Head-to-Head,
-22,Sat,8/30/2025,,Mirassol,,,,Bahia,,,,Head-to-Head,
-22,Sat,8/30/2025,,Internacional,,,,Fortaleza,,,,Head-to-Head,
-22,Sat,8/30/2025,,Botafogo (RJ),,,,RB Bragantino,,,,Head-to-Head,
-22,Sat,8/30/2025,,Vitória,,,,Atlético Mineiro,,,,Head-to-Head,
-22,Sat,8/30/2025,,Ceará,,,,Juventude,,,,Head-to-Head,
-22,Sat,8/30/2025,,Sport Recife,,,,Vasco da Gama,,,,Head-to-Head,
-23,Sat,9/13/2025,,Grêmio,,,,Mirassol,,,,Head-to-Head,
-23,Sat,9/13/2025,,Juventude,,,,Flamengo,,,,Head-to-Head,
-Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
-23,Sat,9/13/2025,,Bahia,,,,Cruzeiro,,,,Head-to-Head,
-23,Sat,9/13/2025,,Vasco da Gama,,,,Ceará,,,,Head-to-Head,
-23,Sat,9/13/2025,,Atlético Mineiro,,,,Santos,,,,Head-to-Head,
-23,Sat,9/13/2025,,São Paulo,,,,Botafogo (RJ),,,,Head-to-Head,
-23,Sat,9/13/2025,,Palmeiras,,,,Internacional,,,,Head-to-Head,
-23,Sat,9/13/2025,,RB Bragantino,,,,Sport Recife,,,,Head-to-Head,
-23,Sat,9/13/2025,,Fortaleza,,,,Vitória,,,,Head-to-Head,
-23,Sat,9/13/2025,,Fluminense,,,,Corinthians,,,,Head-to-Head,
-24,Sat,9/20/2025,,Palmeiras,,,,Fortaleza,,,,Head-to-Head,
-24,Sat,9/20/2025,,Internacional,,,,Grêmio,,,,Head-to-Head,
-24,Sat,9/20/2025,,Vitória,,,,Fluminense,,,,Head-to-Head,
-24,Sat,9/20/2025,,Ceará,,,,Bahia,,,,Head-to-Head,
-24,Sat,9/20/2025,,Cruzeiro,,,,RB Bragantino,,,,Head-to-Head,
-24,Sat,9/20/2025,,Botafogo (RJ),,,,Atlético Mineiro,,,,Head-to-Head,
-24,Sat,9/20/2025,,Flamengo,,,,Vasco da Gama,,,,Head-to-Head,
-24,Sat,9/20/2025,,Mirassol,,,,Juventude,,,,Head-to-Head,
-24,Sat,9/20/2025,,Santos,,,,São Paulo,,,,Head-to-Head,
-24,Sat,9/20/2025,,Sport Recife,,,,Corinthians,,,,Head-to-Head,
-25,Sat,9/27/2025,,RB Bragantino,,,,Santos,,,,Head-to-Head,
-25,Sat,9/27/2025,,Fluminense,,,,Botafogo (RJ),,,,Head-to-Head,
-25,Sat,9/27/2025,,Grêmio,,,,Vitória,,,,Head-to-Head,
-25,Sat,9/27/2025,,Juventude,,,,Internacional,,,,Head-to-Head,
-25,Sat,9/27/2025,,Bahia,,,,Palmeiras,,,,Head-to-Head,
-25,Sat,9/27/2025,,Fortaleza,,,,Sport Recife,,,,Head-to-Head,
-25,Sat,9/27/2025,,Corinthians,,,,Flamengo,,,,Head-to-Head,
-25,Sat,9/27/2025,,São Paulo,,,,Ceará,,,,Head-to-Head,
-25,Sat,9/27/2025,,Vasco da Gama,,,,Cruzeiro,,,,Head-to-Head,
-25,Sat,9/27/2025,,Atlético Mineiro,,,,Mirassol,,,,Head-to-Head,
-26,Wed,10/1/2025,,Flamengo,,,,Cruzeiro,,,,Head-to-Head,
-26,Wed,10/1/2025,,Palmeiras,,,,Vasco da Gama,,,,Head-to-Head,
-26,Wed,10/1/2025,,Fortaleza,,,,São Paulo,,,,Head-to-Head,
-26,Wed,10/1/2025,,Internacional,,,,Corinthians,,,,Head-to-Head,
-Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
-26,Wed,10/1/2025,,Sport Recife,,,,Fluminense,,,,Head-to-Head,
-26,Wed,10/1/2025,,Mirassol,,,,RB Bragantino,,,,Head-to-Head,
-26,Wed,10/1/2025,,Vitória,,,,Ceará,,,,Head-to-Head,
-26,Wed,10/1/2025,,Atlético Mineiro,,,,Juventude,,,,Head-to-Head,
-26,Wed,10/1/2025,,Santos,,,,Grêmio,,,,Head-to-Head,
-26,Wed,10/1/2025,,Botafogo (RJ),,,,Bahia,,,,Head-to-Head,
-27,Thu,10/16/2025,,Vasco da Gama,,,,Vitória,,,,Head-to-Head,
-27,Thu,10/16/2025,,Ceará,,,,Santos,,,,Head-to-Head,
-27,Thu,10/16/2025,,Cruzeiro,,,,Sport Recife,,,,Head-to-Head,
-27,Thu,10/16/2025,,Corinthians,,,,Mirassol,,,,Head-to-Head,
-27,Thu,10/16/2025,,Bahia,,,,Flamengo,,,,Head-to-Head,
-27,Thu,10/16/2025,,São Paulo,,,,Palmeiras,,,,Head-to-Head,
-27,Thu,10/16/2025,,RB Bragantino,,,,Grêmio,,,,Head-to-Head,
-27,Thu,10/16/2025,,Internacional,,,,Botafogo (RJ),,,,Head-to-Head,
-27,Thu,10/16/2025,,Juventude,,,,Fortaleza,,,,Head-to-Head,
-27,Thu,10/16/2025,,Fluminense,,,,Atlético Mineiro,,,,Head-to-Head,
-28,Sat,10/25/2025,,Grêmio,,,,São Paulo,,,,Head-to-Head,
-28,Sat,10/25/2025,,Vitória,,,,Bahia,,,,Head-to-Head,
-28,Sat,10/25/2025,,Atlético Mineiro,,,,Cruzeiro,,,,Head-to-Head,
-28,Sat,10/25/2025,,Mirassol,,,,Internacional,,,,Head-to-Head,
-28,Sat,10/25/2025,,Santos,,,,Corinthians,,,,Head-to-Head,
-28,Sat,10/25/2025,,Fluminense,,,,Juventude,,,,Head-to-Head,
-28,Sat,10/25/2025,,Botafogo (RJ),,,,Flamengo,,,,Head-to-Head,
-28,Sat,10/25/2025,,Palmeiras,,,,RB Bragantino,,,,Head-to-Head,
-28,Sat,10/25/2025,,Fortaleza,,,,Vasco da Gama,,,,Head-to-Head,
-28,Sat,10/25/2025,,Sport Recife,,,,Ceará,,,,Head-to-Head,
-29,Wed,11/5/2025,,Santos,,,,Vitória,,,,Head-to-Head,
-29,Wed,11/5/2025,,Corinthians,,,,Atlético Mineiro,,,,Head-to-Head,
-29,Wed,11/5/2025,,Flamengo,,,,Palmeiras,,,,Head-to-Head,
-29,Wed,11/5/2025,,Juventude,,,,RB Bragantino,,,,Head-to-Head,
-29,Wed,11/5/2025,,Ceará,,,,Botafogo (RJ),,,,Head-to-Head,
-29,Wed,11/5/2025,,Mirassol,,,,São Paulo,,,,Head-to-Head,
-Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
-29,Wed,11/5/2025,,Vasco da Gama,,,,Fluminense,,,,Head-to-Head,
-29,Wed,11/5/2025,,Bahia,,,,Grêmio,,,,Head-to-Head,
-29,Wed,11/5/2025,,Internacional,,,,Sport Recife,,,,Head-to-Head,
-29,Wed,11/5/2025,,Cruzeiro,,,,Fortaleza,,,,Head-to-Head,
-30,Wed,11/19/2025,,Grêmio,,,,Juventude,,,,Head-to-Head,
-30,Wed,11/19/2025,,Fluminense,,,,Internacional,,,,Head-to-Head,
-30,Wed,11/19/2025,,Vitória,,,,Corinthians,,,,Head-to-Head,
-30,Wed,11/19/2025,,Sport Recife,,,,Mirassol,,,,Head-to-Head,
-30,Wed,11/19/2025,,Botafogo (RJ),,,,Santos,,,,Head-to-Head,
-30,Wed,11/19/2025,,Fortaleza,,,,Flamengo,,,,Head-to-Head,
-30,Wed,11/19/2025,,RB Bragantino,,,,Vasco da Gama,,,,Head-to-Head,
-30,Wed,11/19/2025,,São Paulo,,,,Bahia,,,,Head-to-Head,
-30,Wed,11/19/2025,,Atlético Mineiro,,,,Ceará,,,,Head-to-Head,
-30,Wed,11/19/2025,,Palmeiras,,,,Cruzeiro,,,,Head-to-Head,
-31,Sat,11/22/2025,,Vasco da Gama,,,,São Paulo,,,,Head-to-Head,
-31,Sat,11/22/2025,,Corinthians,,,,Grêmio,,,,Head-to-Head,
-31,Sat,11/22/2025,,Ceará,,,,Fluminense,,,,Head-to-Head,
-31,Sat,11/22/2025,,Cruzeiro,,,,Vitória,,,,Head-to-Head,
-31,Sat,11/22/2025,,Bahia,,,,RB Bragantino,,,,Head-to-Head,
-31,Sat,11/22/2025,,Mirassol,,,,Botafogo (RJ),,,,Head-to-Head,
-31,Sat,11/22/2025,,Santos,,,,Fortaleza,,,,Head-to-Head,
-31,Sat,11/22/2025,,Juventude,,,,Palmeiras,,,,Head-to-Head,
-31,Sat,11/22/2025,,Internacional,,,,Atlético Mineiro,,,,Head-to-Head,
-31,Sat,11/22/2025,,Flamengo,,,,Sport Recife,,,,Head-to-Head,
-32,Sat,11/29/2025,,Fluminense,,,,Mirassol,,,,Head-to-Head,
-32,Sat,11/29/2025,,Vitória,,,,Internacional,,,,Head-to-Head,
-32,Sat,11/29/2025,,Grêmio,,,,Cruzeiro,,,,Head-to-Head,
-32,Sat,11/29/2025,,Atlético Mineiro,,,,Bahia,,,,Head-to-Head,
-32,Sat,11/29/2025,,Ceará,,,,Fortaleza,,,,Head-to-Head,
-32,Sat,11/29/2025,,Sport Recife,,,,Juventude,,,,Head-to-Head,
-32,Sat,11/29/2025,,RB Bragantino,,,,Corinthians,,,,Head-to-Head,
-32,Sat,11/29/2025,,Botafogo (RJ),,,,Vasco da Gama,,,,Head-to-Head,
-Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
-32,Sat,11/29/2025,,Palmeiras,,,,Santos,,,,Head-to-Head,
-32,Sat,11/29/2025,,São Paulo,,,,Flamengo,,,,Head-to-Head,
-33,Wed,12/3/2025,,Fortaleza,,,,Grêmio,,,,Head-to-Head,
-33,Wed,12/3/2025,,Vitória,,,,Botafogo (RJ),,,,Head-to-Head,
-33,Wed,12/3/2025,,Vasco da Gama,,,,Juventude,,,,Head-to-Head,
-33,Wed,12/3/2025,,Internacional,,,,Bahia,,,,Head-to-Head,
-33,Wed,12/3/2025,,Cruzeiro,,,,Fluminense,,,,Head-to-Head,
-33,Wed,12/3/2025,,Sport Recife,,,,Atlético Mineiro,,,,Head-to-Head,
-33,Wed,12/3/2025,,Flamengo,,,,Santos,,,,Head-to-Head,
-33,Wed,12/3/2025,,Corinthians,,,,Ceará,,,,Head-to-Head,
-33,Wed,12/3/2025,,São Paulo,,,,RB Bragantino,,,,Head-to-Head,
-33,Wed,12/3/2025,,Mirassol,,,,Palmeiras,,,,Head-to-Head,
-34,Sat,12/6/2025,,Juventude,,,,Cruzeiro,,,,Head-to-Head,
-34,Sat,12/6/2025,,Grêmio,,,,Vasco da Gama,,,,Head-to-Head,
-34,Sat,12/6/2025,,Ceará,,,,Internacional,,,,Head-to-Head,
-34,Sat,12/6/2025,,Botafogo (RJ),,,,Sport Recife,,,,Head-to-Head,
-34,Sat,12/6/2025,,Fluminense,,,,Flamengo,,,,Head-to-Head,
-34,Sat,12/6/2025,,RB Bragantino,,,,Vitória,,,,Head-to-Head,
-34,Sat,12/6/2025,,Atlético Mineiro,,,,Palmeiras,,,,Head-to-Head,
-34,Sat,12/6/2025,,Santos,,,,Mirassol,,,,Head-to-Head,
-34,Sat,12/6/2025,,Bahia,,,,Fortaleza,,,,Head-to-Head,
-34,Sat,12/6/2025,,Corinthians,,,,São Paulo,,,,Head-to-Head,
-35,Wed,12/10/2025,,Botafogo (RJ),,,,Grêmio,,,,Head-to-Head,
-35,Wed,12/10/2025,,Cruzeiro,,,,Corinthians,,,,Head-to-Head,
-35,Wed,12/10/2025,,São Paulo,,,,Juventude,,,,Head-to-Head,
-35,Wed,12/10/2025,,Internacional,,,,Santos,,,,Head-to-Head,
-35,Wed,12/10/2025,,Palmeiras,,,,Fluminense,,,,Head-to-Head,
-35,Wed,12/10/2025,,Fortaleza,,,,Atlético Mineiro,,,,Head-to-Head,
-35,Wed,12/10/2025,,Mirassol,,,,Ceará,,,,Head-to-Head,
-35,Wed,12/10/2025,,Bahia,,,,Vasco da Gama,,,,Head-to-Head,
-35,Wed,12/10/2025,,Sport Recife,,,,Vitória,,,,Head-to-Head,
-35,Wed,12/10/2025,,Flamengo,,,,RB Bragantino,,,,Head-to-Head,
-Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
-36,Sat,12/13/2025,,Ceará,,,,Cruzeiro,,,,Head-to-Head,
-36,Sat,12/13/2025,,Corinthians,,,,Botafogo (RJ),,,,Head-to-Head,
-36,Sat,12/13/2025,,Vitória,,,,Mirassol,,,,Head-to-Head,
-36,Sat,12/13/2025,,Santos,,,,Sport Recife,,,,Head-to-Head,
-36,Sat,12/13/2025,,Vasco da Gama,,,,Internacional,,,,Head-to-Head,
-36,Sat,12/13/2025,,Fluminense,,,,São Paulo,,,,Head-to-Head,
-36,Sat,12/13/2025,,Atlético Mineiro,,,,Flamengo,,,,Head-to-Head,
-36,Sat,12/13/2025,,Grêmio,,,,Palmeiras,,,,Head-to-Head,
-36,Sat,12/13/2025,,RB Bragantino,,,,Fortaleza,,,,Head-to-Head,
-36,Sat,12/13/2025,,Juventude,,,,Bahia,,,,Head-to-Head,
-37,Wed,12/17/2025,,Juventude,,,,Santos,,,,Head-to-Head,
-37,Wed,12/17/2025,,Fortaleza,,,,Corinthians,,,,Head-to-Head,
-37,Wed,12/17/2025,,Vasco da Gama,,,,Mirassol,,,,Head-to-Head,
-37,Wed,12/17/2025,,Bahia,,,,Sport Recife,,,,Head-to-Head,
-37,Wed,12/17/2025,,Grêmio,,,,Fluminense,,,,Head-to-Head,
-37,Wed,12/17/2025,,Flamengo,,,,Ceará,,,,Head-to-Head,
-37,Wed,12/17/2025,,Cruzeiro,,,,Botafogo (RJ),,,,Head-to-Head,
-37,Wed,12/17/2025,,Palmeiras,,,,Vitória,,,,Head-to-Head,
-37,Wed,12/17/2025,,São Paulo,,,,Internacional,,,,Head-to-Head,
-37,Wed,12/17/2025,,RB Bragantino,,,,Atlético Mineiro,,,,Head-to-Head,
-38,Sun,12/21/2025,,Botafogo (RJ),,,,Fortaleza,,,,Head-to-Head,
-38,Sun,12/21/2025,,Internacional,,,,RB Bragantino,,,,Head-to-Head,
-38,Sun,12/21/2025,,Santos,,,,Cruzeiro,,,,Head-to-Head,
-38,Sun,12/21/2025,,Ceará,,,,Palmeiras,,,,Head-to-Head,
-38,Sun,12/21/2025,,Fluminense,,,,Bahia,,,,Head-to-Head,
-38,Sun,12/21/2025,,Atlético Mineiro,,,,Vasco da Gama,,,,Head-to-Head,
-38,Sun,12/21/2025,,Mirassol,,,,Flamengo,,,,Head-to-Head,
-38,Sun,12/21/2025,,Vitória,,,,São Paulo,,,,Head-to-Head,
-38,Sun,12/21/2025,,Sport Recife,,,,Grêmio,,,,Head-to-Head,
-38,Sun,12/21/2025,,Corinthians,,,,Juventude,,,,Head-to-Head,
-35,Wed,12/10/2025,,Mirassol,,,,Ceará,,,,Head-to-Head,
-35,Wed,12/10/2025,,Bahia,,,,Vasco da Gama,,,,Head-to-Head,
-35,Wed,12/10/2025,,Sport Recife,,,,Vitória,,,,Head-to-Head,
-35,Wed,12/10/2025,,Flamengo,,,,RB Bragantino,,,,Head-to-Head,
-Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
-,,,,,,,,,,,,,
-36,Sat,12/13/2025,,Ceará,,,,Cruzeiro,,,,Head-to-Head,
-36,Sat,12/13/2025,,Corinthians,,,,Botafogo (RJ),,,,Head-to-Head,
-36,Sat,12/13/2025,,Vitória,,,,Mirassol,,,,Head-to-Head,
-36,Sat,12/13/2025,,Santos,,,,Sport Recife,,,,Head-to-Head,
-36,Sat,12/13/2025,,Vasco da Gama,,,,Internacional,,,,Head-to-Head,
-36,Sat,12/13/2025,,Fluminense,,,,São Paulo,,,,Head-to-Head,
-36,Sat,12/13/2025,,Atlético Mineiro,,,,Flamengo,,,,Head-to-Head,
-36,Sat,12/13/2025,,Grêmio,,,,Palmeiras,,,,Head-to-Head,
-36,Sat,12/13/2025,,RB Bragantino,,,,Fortaleza,,,,Head-to-Head,
-36,Sat,12/13/2025,,Juventude,,,,Bahia,,,,Head-to-Head,
-,,,,,,,,,,,,,
-37,Wed,12/17/2025,,Juventude,,,,Santos,,,,Head-to-Head,
-37,Wed,12/17/2025,,Fortaleza,,,,Corinthians,,,,Head-to-Head,
-37,Wed,12/17/2025,,Vasco da Gama,,,,Mirassol,,,,Head-to-Head,
-37,Wed,12/17/2025,,Bahia,,,,Sport Recife,,,,Head-to-Head,
-37,Wed,12/17/2025,,Grêmio,,,,Fluminense,,,,Head-to-Head,
-37,Wed,12/17/2025,,Flamengo,,,,Ceará,,,,Head-to-Head,
-37,Wed,12/17/2025,,Cruzeiro,,,,Botafogo (RJ),,,,Head-to-Head,
-37,Wed,12/17/2025,,Palmeiras,,,,Vitória,,,,Head-to-Head,
-37,Wed,12/17/2025,,São Paulo,,,,Internacional,,,,Head-to-Head,
-37,Wed,12/17/2025,,RB Bragantino,,,,Atlético Mineiro,,,,Head-to-Head,
-,,,,,,,,,,,,,
-38,Sun,12/21/2025,,Botafogo (RJ),,,,Fortaleza,,,,Head-to-Head,
-38,Sun,12/21/2025,,Internacional,,,,RB Bragantino,,,,Head-to-Head,
-38,Sun,12/21/2025,,Santos,,,,Cruzeiro,,,,Head-to-Head,
-38,Sun,12/21/2025,,Ceará,,,,Palmeiras,,,,Head-to-Head,
-38,Sun,12/21/2025,,Fluminense,,,,Bahia,,,,Head-to-Head,
-38,Sun,12/21/2025,,Atlético Mineiro,,,,Vasco da Gama,,,,Head-to-Head,
-38,Sun,12/21/2025,,Mirassol,,,,Flamengo,,,,Head-to-Head,
-38,Sun,12/21/2025,,Vitória,,,,São Paulo,,,,Head-to-Head,
-38,Sun,12/21/2025,,Sport Recife,,,,Grêmio,,,,Head-to-Head,
-38,Sun,12/21/2025,,Corinthians,,,,Juventude,,,,,
+k,Day,Date,Time,Home,xG,Score,xG.1,Away,Attendance,Venue,Referee,Match Report,Notes,Team_Rank,Away_Team_Rank,Home_xG_Avg,Away_xG_Avg,Home_Goals_Real,Away_Goals_Real,Total_Goals_For,Total_Goals_Against,Home_Goals_Against,Away_Goals_Against,Last_5_Performance,Last_5_Wins
+1,Sat,3/29/2025,18:30,são paulo,2.4,0–0,0.4,sport recife,,Estádio do Morumbi,Felipe Fernandes de Lima,Match Report,,16.0,20.0,1.575,0.7,0.0,0.0,3.0,3.0,2.0,7.0,"E, D, E, E, V",1
+1,Sat,3/29/2025,18:30,juventude,0.7,2–0,0.6,vitória,,Estádio Alfredo Jaconi,Paulo Cesar Zanovelli da Silva,Match Report,,18.0,14.0,1.175,0.8,2.0,0.0,6.0,3.0,4.0,6.0,"D, D, D, D, E",0
+1,Sat,3/29/2025,18:30,fortaleza,0.9,2–0,0.9,fluminense,,Estádio Castelão,Rodrigo José Pereira de Lima,Match Report,,11.0,5.0,1.35,0.7749999999999999,2.0,0.0,8.0,4.0,2.0,7.0,"E, V, E, E, D",1
+1,Sat,3/29/2025,18:30,cruzeiro,1.2,2–1,1.7,mirassol,"40,837",Estádio Governador Magalhães Pinto,Alex Gomes Stefano,Match Report,,4.0,12.0,1.4,1.25,2.0,1.0,8.0,4.0,2.0,6.0,"V, V, D, V, D",3
+1,Sat,3/29/2025,18:30,grêmio,0.8,2–1,2.9,atlético mineiro,,Arena do Grêmio,Raphael Claus,Match Report,,15.0,7.0,0.68,1.65,2.0,1.0,5.0,4.0,5.0,6.0,"V, E, D, E, E",1
+1,Sun,3/30/2025,16:00,palmeiras,1.3,0–0,0.9,botafogo (rj),,Allianz Parque,Ramon Abatti,Match Report,,1.0,9.0,1.375,0.85,0.0,0.0,3.0,0.0,1.0,3.0,"V, V, V, D, V",4
+1,Sun,3/30/2025,18:30,vasco da gama,1.3,2–1,2.0,santos,"19,550",Estádio Club de Regatas Vasco da Gama,Rafael Klein,Match Report,,17.0,19.0,0.9500000000000001,1.025,2.0,1.0,5.0,2.0,3.0,6.0,"D, D, D, D, E",0
+1,Sun,3/30/2025,20:00,bahia,1.4,1–1,0.5,corinthians,,Casa de Apostas Arena Fonte Nova,Bruno Arleu,Match Report,,8.0,10.0,1.725,0.575,1.0,1.0,4.0,2.0,2.0,9.0,"V, D, E, V, V",3
+1,Sat,3/29/2025,21:00,flamengo,1.8,1–1,0.4,internacional,,Estadio Jornalista Mário Filho,Davi de Oliveira Lacerda,Match Report,,2.0,13.0,2.175,0.9400000000000001,1.0,1.0,12.0,4.0,1.0,10.0,"D, V, V, V, E",3
+1,Mon,3/31/2025,20:00,rb bragantino,1.2,2–2,0.9,ceará,,Estádio Nabi Abi Chedid,Bruno Pereira Vasconcelos,Match Report,,3.0,6.0,1.425,1.075,2.0,2.0,5.0,3.0,2.0,5.0,"V, E, D, V, V",3
+2,Sat,4/5/2025,18:30,corinthians,1.0,3–0,0.6,vasco da gama,,Neo Química Arena,Anderson Daronco,Match Report,,10.0,17.0,1.875,0.8,3.0,0.0,9.0,2.0,5.0,8.0,"V, D, V, D, V",3
+2,Sat,4/5/2025,18:30,ceará,1.3,2–0,0.9,grêmio,,Estádio Castelão,Edina Alves,Match Report,,6.0,15.0,1.275,1.0666666666666667,2.0,0.0,6.0,2.0,2.0,7.0,"V, E, V, E, D",2
+2,Sun,4/6/2025,16:00,atlético mineiro,1.4,0–0,0.3,são paulo,,Estádio Governador Magalhães Pinto,Ramon Abatti,Match Report,,7.0,16.0,1.575,0.775,0.0,0.0,6.0,3.0,4.0,4.0,"V, V, E, E, V",3
+2,Sun,4/6/2025,16:00,fluminense,2.0,2–1,0.7,rb bragantino,,Estadio Jornalista Mário Filho,Wilton Pereira Sampaio,Match Report,,5.0,3.0,1.425,1.125,2.0,1.0,6.0,5.0,3.0,4.0,"V, D, V, D, E",2
+2,Sun,4/6/2025,18:30,mirassol,1.9,1–1,1.0,fortaleza,,Estádio José Maria de Campos Maia,Savio Pereira,Match Report,,12.0,11.0,1.975,0.9750000000000001,1.0,1.0,9.0,2.0,5.0,3.0,"D, V, E, E, E",1
+2,Sun,4/6/2025,18:30,internacional,2.4,3–0,0.3,cruzeiro,,Estádio José Pinheiro Borba,Marcelo de Lima Henrique,Match Report,,13.0,4.0,1.5666666666666667,0.9,3.0,0.0,6.0,5.0,2.0,5.0,"D, D, V, V, E",2
+2,Sun,4/6/2025,18:30,vitória,0.3,1–2,1.6,flamengo,,Estádio Manoel Barradas,Rafael Klein,Match Report,,14.0,2.0,1.0,1.2,1.0,2.0,6.0,5.0,5.0,3.0,"D, V, D, E, E",1
+2,Sun,4/6/2025,18:30,sport recife,0.5,1–2,2.0,palmeiras,,Estádio Adelmar da Costa Carvalho,Bruno Arleu,Match Report,,20.0,1.0,0.9,1.375,1.0,2.0,1.0,6.0,7.0,2.0,"D, D, D, E, D",0
+2,Sun,4/6/2025,20:30,santos,1.3,2–2,2.2,bahia,,Estádio Urbano Caldeira,Alex Gomes Stefano,Match Report,,19.0,8.0,1.225,0.9,2.0,2.0,5.0,3.0,4.0,6.0,"D, E, E, D, D",0
+2,Sat,4/5/2025,21:00,botafogo (rj),1.7,2–0,0.6,juventude,,Estádio Nilton Santos,Rodrigo José Pereira de Lima,Match Report,,9.0,18.0,1.25,0.3,2.0,0.0,10.0,1.0,2.0,16.0,"D, V, V, V, D",3
+3,Sat,4/12/2025,16:00,juventude,2.0,2–1,1.3,ceará,,Estádio Alfredo Jaconi,Lucas Casagrande,Match Report,,18.0,6.0,1.175,1.075,2.0,1.0,6.0,3.0,4.0,5.0,"D, D, D, D, E",0
+3,Sat,4/12/2025,16:00,rb bragantino,2.0,1–0,0.7,botafogo (rj),,Estádio Nabi Abi Chedid,Anderson Daronco,Match Report,,3.0,9.0,1.425,0.85,1.0,0.0,5.0,0.0,2.0,3.0,"V, E, D, V, V",3
+3,Sat,4/12/2025,18:30,palmeiras,1.4,2–0,0.3,corinthians,,Arena Barueri,Rafael Klein,Match Report,,1.0,10.0,1.375,0.575,2.0,0.0,3.0,2.0,1.0,9.0,"V, V, V, D, V",4
+3,Sun,4/13/2025,16:00,bahia,1.7,1–1,0.5,mirassol,,Casa de Apostas Arena Fonte Nova,Braulio Machado,Match Report,,8.0,12.0,1.725,1.25,1.0,1.0,4.0,4.0,2.0,6.0,"V, D, E, V, V",3
+3,Sun,4/13/2025,17:30,grêmio,0.3,0–2,1.0,flamengo,"23,367",Arena do Grêmio,Ramon Abatti,Match Report,,15.0,2.0,0.68,1.2,0.0,2.0,5.0,5.0,5.0,3.0,"V, E, D, E, E",1
+3,Sun,4/13/2025,17:30,são paulo,0.4,1–1,1.1,cruzeiro,"37,566",Estádio do Morumbi,Rodrigo José Pereira de Lima,Match Report,,16.0,4.0,1.575,0.9,1.0,1.0,3.0,5.0,2.0,5.0,"E, D, E, E, V",1
+3,Sun,4/13/2025,19:30,fluminense,0.7,1–0,0.1,santos,,Estadio Jornalista Mário Filho,Felipe Fernandes de Lima,Match Report,,5.0,19.0,1.425,1.025,1.0,0.0,6.0,2.0,3.0,6.0,"V, D, V, D, E",2
+3,Sun,4/13/2025,20:00,fortaleza,0.6,0–0,0.3,internacional,,Estádio Castelão,Flavio Rodrigues de Souza,Match Report,,11.0,13.0,1.35,0.9400000000000001,0.0,0.0,8.0,4.0,2.0,10.0,"E, V, E, E, D",1
+3,Sun,4/13/2025,20:30,atlético mineiro,1.8,2–2,1.3,vitória,"23,234",Estádio Governador Magalhães Pinto,Davi de Oliveira Lacerda,Match Report,,7.0,14.0,1.575,0.8,2.0,2.0,6.0,3.0,4.0,6.0,"V, V, E, E, V",3
+3,Sat,4/12/2025,21:00,vasco da gama,1.3,3–1,1.0,sport recife,,Estádio Club de Regatas Vasco da Gama,Wilton Pereira Sampaio,Match Report,,17.0,20.0,0.9500000000000001,0.7,3.0,1.0,5.0,3.0,3.0,7.0,"D, D, D, D, E",0
+4,Wed,4/16/2025,18:30,botafogo (rj),1.5,2–2,1.1,são paulo,,Estádio Nilton Santos,Davi de Oliveira Lacerda,Match Report,,9.0,16.0,1.25,0.775,2.0,2.0,10.0,3.0,2.0,4.0,"D, V, V, V, D",3
+4,Wed,4/16/2025,19:00,sport recife,0.8,0–1,1.4,rb bragantino,"12,621",Estádio Adelmar da Costa Carvalho,Paulo Cesar Zanovelli da Silva,Match Report,,20.0,3.0,0.9,1.125,0.0,1.0,1.0,5.0,7.0,4.0,"D, D, D, E, D",0
+Wk,Day,Date,Time,home,,Score,,away,Attendance,Venue,Referee,Match Report,Notes,,,,,,,0.0,0.0,0.0,0.0,,0
+4,Wed,4/16/2025,19:00,mirassol,1.6,4–1,0.8,grêmio,"4,147",Estádio José Maria de Campos Maia,Lucas Paulo Torezin,Match Report,,12.0,15.0,1.975,1.0666666666666667,4.0,1.0,9.0,2.0,5.0,7.0,"D, V, E, E, E",1
+4,Wed,4/16/2025,19:30,corinthians,0.8,0–2,1.2,fluminense,,Neo Química Arena,Rodrigo José Pereira de Lima,Match Report,,10.0,5.0,1.875,0.7749999999999999,0.0,2.0,9.0,4.0,5.0,7.0,"V, D, V, D, V",3
+4,Wed,4/16/2025,19:30,internacional,1.0,0–1,0.9,palmeiras,,Estádio José Pinheiro Borba,Felipe Fernandes de Lima,Match Report,,13.0,1.0,1.5666666666666667,1.375,0.0,1.0,6.0,6.0,2.0,2.0,"D, D, V, V, E",2
+4,Tue,4/15/2025,21:30,ceará,2.1,2–1,1.1,vasco da gama,,Estádio Castelão,Denis da Silva Ribeiro Serafim,Match Report,,6.0,17.0,1.275,0.8,2.0,1.0,6.0,2.0,2.0,8.0,"V, E, V, E, D",2
+4,Wed,4/16/2025,21:30,vitória,0.9,2–1,1.1,fortaleza,,Estádio Manoel Barradas,Raphael Claus,Match Report,,14.0,11.0,1.0,0.9750000000000001,2.0,1.0,6.0,2.0,5.0,3.0,"D, V, D, E, E",1
+4,Wed,4/16/2025,21:30,flamengo,3.2,6–0,0.2,juventude,,Estadio Jornalista Mário Filho,Matheus Delgado Candançan,Match Report,,2.0,18.0,2.175,0.3,6.0,0.0,12.0,1.0,1.0,16.0,"D, V, V, V, E",3
+4,Wed,4/16/2025,21:30,santos,1.7,2–0,0.8,atlético mineiro,,Estádio Urbano Caldeira,Braulio Machado,Match Report,,19.0,7.0,1.225,1.65,2.0,0.0,5.0,4.0,4.0,6.0,"D, E, E, D, D",0
+4,Thu,4/17/2025,21:30,cruzeiro,2.3,3–0,0.3,bahia,,Estádio Governador Magalhães Pinto,Flavio Rodrigues de Souza,Match Report,,4.0,8.0,1.4,0.9,3.0,0.0,8.0,3.0,2.0,6.0,"V, V, D, V, D",3
+5,Sat,4/19/2025,16:00,corinthians,2.2,2–1,0.4,sport recife,"44,996",Neo Química Arena,Anderson Daronco,Match Report,,10.0,20.0,1.875,0.7,2.0,1.0,9.0,3.0,5.0,7.0,"V, D, V, D, V",3
+5,Sat,4/19/2025,18:30,vasco da gama,0.4,0–0,1.9,flamengo,,Estadio Jornalista Mário Filho,Raphael Claus,Match Report,,17.0,2.0,0.9500000000000001,1.2,0.0,0.0,5.0,5.0,3.0,3.0,"D, D, D, D, E",0
+5,Sun,4/20/2025,11:00,juventude,1.3,2–2,2.3,mirassol,,Estádio Alfredo Jaconi,Paulo Belence Alves dos Prazeres Filho,Match Report,,18.0,12.0,1.175,1.25,2.0,2.0,6.0,4.0,4.0,6.0,"D, D, D, D, E",0
+5,Sun,4/20/2025,16:00,são paulo,1.7,2–1,1.4,santos,"52,436",Estádio do Morumbi,Wilton Pereira Sampaio,Match Report,,16.0,19.0,1.575,1.025,2.0,1.0,3.0,2.0,2.0,6.0,"E, D, E, E, V",1
+5,Sun,4/20/2025,16:00,atlético mineiro,0.8,1–0,0.3,botafogo (rj),"24,528",Estádio Governador Magalhães Pinto,Ramon Abatti,Match Report,,7.0,9.0,1.575,0.85,1.0,0.0,6.0,0.0,4.0,3.0,"V, V, E, E, V",3
+5,Sun,4/20/2025,18:30,fluminense,1.1,1–1,0.6,vitória,,Estadio Jornalista Mário Filho,Matheus Delgado Candançan,Match Report,,5.0,14.0,1.425,0.8,1.0,1.0,6.0,3.0,3.0,6.0,"V, D, V, D, E",2
+5,Sun,4/20/2025,18:30,fortaleza,1.2,1–2,1.0,palmeiras,,Estádio Castelão,Paulo Cesar Zanovelli da Silva,Match Report,,11.0,1.0,1.35,1.375,1.0,2.0,8.0,6.0,2.0,2.0,"E, V, E, E, D",1
+5,Sun,4/20/2025,20:30,rb bragantino,1.7,1–0,0.8,cruzeiro,,Estádio Nabi Abi Chedid,Alex Gomes Stefano,Match Report,,3.0,4.0,1.425,0.9,1.0,0.0,5.0,5.0,2.0,5.0,"V, E, D, V, V",3
+5,Sat,4/19/2025,21:00,grêmio,1.1,1–1,2.0,internacional,,Arena do Grêmio,Braulio Machado,Match Report,,15.0,13.0,0.68,0.9400000000000001,1.0,1.0,5.0,4.0,5.0,10.0,"V, E, D, E, E",1
+5,Mon,4/21/2025,20:00,bahia,1.7,1–0,1.2,ceará,,Casa de Apostas Arena Fonte Nova,Rafael Klein,Match Report,,8.0,6.0,1.725,1.075,1.0,0.0,4.0,3.0,2.0,5.0,"V, D, E, V, V",3
+6,Sat,4/26/2025,16:00,internacional,1.3,3–1,0.3,juventude,,Estádio José Pinheiro Borba,Flavio Rodrigues de Souza,Match Report,,13.0,18.0,1.5666666666666667,0.3,3.0,1.0,6.0,1.0,2.0,16.0,"D, D, V, V, E",2
+6,Sat,4/26/2025,18:30,mirassol,1.8,2–2,1.6,atlético mineiro,,Estádio José Maria de Campos Maia,Davi de Oliveira Lacerda,Match Report,,12.0,7.0,1.975,1.65,2.0,2.0,9.0,4.0,5.0,6.0,"D, V, E, E, E",1
+6,Sat,4/26/2025,18:30,ceará,0.5,1–1,0.8,são paulo,,Estádio Castelão,Anderson Daronco,Match Report,,6.0,16.0,1.275,0.775,1.0,1.0,6.0,3.0,2.0,4.0,"V, E, V, E, D",2
+6,Sat,4/26/2025,20:00,sport recife,1.3,0–0,0.8,fortaleza,,Estádio Adelmar da Costa Carvalho,Matheus Delgado Candançan,Match Report,,20.0,11.0,0.9,0.9750000000000001,0.0,0.0,1.0,2.0,7.0,3.0,"D, D, D, E, D",0
+6,Sun,4/27/2025,16:00,flamengo,2.2,4–0,0.3,corinthians,,Estadio Jornalista Mário Filho,Ramon Abatti,Match Report,,2.0,10.0,2.175,0.575,4.0,0.0,12.0,2.0,1.0,9.0,"D, V, V, V, E",3
+6,Sun,4/27/2025,18:30,vitória,1.3,1–1,1.5,grêmio,"18,688",Estádio Manoel Barradas,Felipe Fernandes de Lima,Match Report,,14.0,15.0,1.0,1.0666666666666667,1.0,1.0,6.0,2.0,5.0,7.0,"D, V, D, E, E",1
+6,Sun,4/27/2025,18:30,cruzeiro,0.9,1–0,0.8,vasco da gama,,Estádio Municipal Parque do Sabiá,Rafael Klein,Match Report,,4.0,17.0,1.4,0.8,1.0,0.0,8.0,2.0,2.0,8.0,"V, V, D, V, D",3
+6,Sun,4/27/2025,18:30,palmeiras,1.4,0–1,0.6,bahia,"29,033",Allianz Parque,Wilton Pereira Sampaio,Match Report,,1.0,8.0,1.375,0.9,0.0,1.0,3.0,3.0,1.0,6.0,"V, V, V, D, V",4
+6,Sun,4/27/2025,20:30,santos,1.1,1–2,1.4,rb bragantino,"7,679",Estádio Urbano Caldeira,Raphael Claus,Match Report,,19.0,3.0,1.225,1.125,1.0,2.0,5.0,5.0,4.0,4.0,"D, E, E, D, D",0
+6,Sat,4/26/2025,21:00,botafogo (rj),0.9,2–0,0.3,fluminense,,Estádio Nilton Santos,Bruno Arleu,Match Report,,9.0,5.0,1.25,0.7749999999999999,2.0,0.0,10.0,4.0,2.0,7.0,"D, V, V, V, D",3
+7,Sat,5/3/2025,18:30,fluminense,1.9,2–1,1.0,sport recife,,Estadio Jornalista Mário Filho,Rafael Klein,Match Report,,5.0,20.0,1.425,0.7,2.0,1.0,6.0,3.0,3.0,7.0,"V, D, V, D, E",2
+7,Sat,5/3/2025,18:30,ceará,1.2,1–0,0.7,vitória,,Estádio Municipal Presidente Getúlio Var...,Alex Gomes Stefano,Match Report,,6.0,14.0,1.275,0.8,1.0,0.0,6.0,3.0,2.0,6.0,"V, E, V, E, D",2
+7,Sat,5/3/2025,18:30,corinthians,3.5,4–2,0.9,internacional,,Neo Química Arena,Paulo Cesar Zanovelli da Silva,Match Report,,10.0,13.0,1.875,0.9400000000000001,4.0,2.0,9.0,4.0,5.0,10.0,"V, D, V, D, V",3
+7,Fri,5/2/2025,21:30,são paulo,1.8,0–0,1.0,fortaleza,"39,502",Estádio do Morumbi,Wagner do Nascimento Magalhães,Match Report,,16.0,11.0,1.575,0.9750000000000001,0.0,0.0,3.0,2.0,2.0,3.0,"E, D, E, E, V",1
+Wk,Day,Date,Time,home,,Score,,away,Attendance,Venue,Referee,Match Report,Notes,,,,,,,0.0,0.0,0.0,0.0,,0
+7,Sun,5/4/2025,16:00,grêmio,0.6,1–0,0.6,santos,"27,085",Arena do Grêmio,Bruno Arleu,Match Report,,15.0,19.0,0.68,1.025,1.0,0.0,5.0,2.0,5.0,6.0,"V, E, D, E, E",1
+7,Sun,5/4/2025,16:00,vasco da gama,0.8,0–1,1.6,palmeiras,,Estádio Nacional de Brasília,Davi de Oliveira Lacerda,Match Report,,17.0,1.0,0.9500000000000001,1.375,0.0,1.0,5.0,6.0,3.0,2.0,"D, D, D, D, E",0
+7,Sun,5/4/2025,18:30,cruzeiro,1.2,2–1,0.3,flamengo,"52,792",Estádio Governador Magalhães Pinto,Wilton Pereira Sampaio,Match Report,,4.0,2.0,1.4,1.2,2.0,1.0,8.0,5.0,2.0,3.0,"V, V, D, V, D",3
+7,Sat,5/3/2025,21:00,bahia,2.1,1–0,1.5,botafogo (rj),,Casa de Apostas Arena Fonte Nova,Flavio Rodrigues de Souza,Match Report,,8.0,9.0,1.725,0.85,1.0,0.0,4.0,0.0,2.0,3.0,"V, D, E, V, V",3
+7,Mon,5/5/2025,19:00,rb bragantino,0.8,1–0,0.5,mirassol,,Estádio Cicero de Souza Marques,Lucas Canetto Bellote,Match Report,,3.0,12.0,1.425,1.25,1.0,0.0,5.0,4.0,2.0,6.0,"V, E, D, V, V",3
+7,Mon,5/5/2025,20:00,juventude,0.7,0–1,1.3,atlético mineiro,,Estádio Alfredo Jaconi,Bruno Pereira Vasconcelos,Match Report,,18.0,7.0,1.175,1.65,0.0,1.0,6.0,4.0,4.0,6.0,"D, D, D, D, E",0
+8,Sat,5/10/2025,16:00,fortaleza,2.7,5–0,0.1,juventude,,Estádio Municipal Presidente Getúlio Var...,Lucas Paulo Torezin,Match Report,,11.0,18.0,1.35,0.3,5.0,0.0,8.0,1.0,2.0,16.0,"E, V, E, E, D",1
+8,Sat,5/10/2025,18:30,mirassol,2.6,2–1,1.2,corinthians,,Estádio José Maria de Campos Maia,João Vitor Gobi,Match Report,,12.0,10.0,1.975,0.575,2.0,1.0,9.0,2.0,5.0,9.0,"D, V, E, E, E",1
+8,Sat,5/10/2025,18:30,vitória,1.5,2–1,0.7,vasco da gama,,Estádio Manoel Barradas,Wilton Pereira Sampaio,Match Report,,14.0,17.0,1.0,0.8,2.0,1.0,6.0,2.0,5.0,8.0,"D, V, D, E, E",1
+8,Sat,5/10/2025,18:30,grêmio,0.6,1–1,1.0,rb bragantino,,Arena do Grêmio,Davi de Oliveira Lacerda,Match Report,,15.0,3.0,0.68,1.125,1.0,1.0,5.0,5.0,5.0,4.0,"V, E, D, E, E",1
+8,Sun,5/11/2025,16:00,sport recife,1.0,0–4,1.4,cruzeiro,,Estádio Adelmar da Costa Carvalho,Raphael Claus,Match Report,,20.0,4.0,0.9,0.9,0.0,4.0,1.0,5.0,7.0,5.0,"D, D, D, E, D",0
+8,Sun,5/11/2025,17:30,palmeiras,1.4,1–0,0.9,são paulo,,Arena Barueri,Rafael Klein,Match Report,,1.0,16.0,1.375,0.775,1.0,0.0,3.0,3.0,1.0,4.0,"V, V, V, D, V",4
+8,Sun,5/11/2025,17:30,atlético mineiro,2.3,3–2,0.7,fluminense,,Arena MRV,Ramon Abatti,Match Report,,7.0,5.0,1.575,0.7749999999999999,3.0,2.0,6.0,4.0,4.0,7.0,"V, V, E, E, V",3
+8,Sun,5/11/2025,20:00,botafogo (rj),0.9,4–0,1.1,internacional,,Estádio Nilton Santos,Matheus Delgado Candançan,Match Report,,9.0,13.0,1.25,0.9400000000000001,4.0,0.0,10.0,4.0,2.0,10.0,"D, V, V, V, D",3
+8,Sat,5/10/2025,21:00,flamengo,1.5,1–0,0.5,bahia,,Estadio Jornalista Mário Filho,Anderson Daronco,Match Report,,2.0,8.0,2.175,0.9,1.0,0.0,12.0,3.0,1.0,6.0,"D, V, V, V, E",3
+8,Mon,5/12/2025,20:00,santos,0.8,0–0,0.9,ceará,,Allianz Parque,Felipe Fernandes de Lima,Match Report,,19.0,6.0,1.225,1.075,0.0,0.0,5.0,3.0,4.0,5.0,"D, E, E, D, D",0
+9,Sat,5/17/2025,16:00,ceará,,,,sport recife,,Estádio Castelão,,Head-to-Head,,6.0,20.0,1.275,0.7,,,6.0,3.0,2.0,7.0,"V, E, V, E, D",2
+9,Sat,5/17/2025,18:30,vasco da gama,,,,fortaleza,,Estádio Club de Regatas Vasco da Gama,,Head-to-Head,,17.0,11.0,0.9500000000000001,0.9750000000000001,,,5.0,2.0,3.0,3.0,"D, D, D, D, E",0
+9,Sun,5/18/2025,16:00,bahia,,,,vitória,,Casa de Apostas Arena Fonte Nova,,Head-to-Head,,8.0,14.0,1.725,0.8,,,4.0,3.0,2.0,6.0,"V, D, E, V, V",3
+9,Sun,5/18/2025,16:00,corinthians,,,,santos,,Neo Química Arena,,Head-to-Head,,10.0,19.0,1.875,1.025,,,9.0,2.0,5.0,6.0,"V, D, V, D, V",3
+9,Sun,5/18/2025,16:00,juventude,,,,fluminense,,Estádio Alfredo Jaconi,,Head-to-Head,,18.0,5.0,1.175,0.7749999999999999,,,6.0,4.0,4.0,7.0,"D, D, D, D, E",0
+9,Sun,5/18/2025,18:30,rb bragantino,,,,palmeiras,,Estádio Cicero de Souza Marques,,Head-to-Head,,3.0,1.0,1.425,1.375,,,5.0,6.0,2.0,2.0,"V, E, D, V, V",3
+9,Sun,5/18/2025,18:30,flamengo,,,,botafogo (rj),,Estadio Jornalista Mário Filho,,Head-to-Head,,2.0,9.0,2.175,0.85,,,12.0,0.0,1.0,3.0,"D, V, V, V, E",3
+9,Sun,5/18/2025,20:30,cruzeiro,,,,atlético mineiro,,Estádio Governador Magalhães Pinto,,Head-to-Head,,4.0,7.0,1.4,1.65,,,8.0,4.0,2.0,6.0,"V, V, D, V, D",3
+9,Sun,5/18/2025,20:30,internacional,,,,mirassol,,Estádio José Pinheiro Borba,,Head-to-Head,,13.0,12.0,1.5666666666666667,1.25,,,6.0,4.0,2.0,6.0,"D, D, V, V, E",2
+9,Sat,5/17/2025,21:00,são paulo,,,,grêmio,,Estádio do Morumbi,,Head-to-Head,,16.0,15.0,1.575,1.0666666666666667,,,3.0,2.0,2.0,7.0,"E, D, E, E, V",1
+10,Sat,5/24/2025,18:30,fluminense,,,,vasco da gama,,Estadio Jornalista Mário Filho,,Head-to-Head,,5.0,17.0,1.425,0.8,,,6.0,2.0,3.0,8.0,"V, D, V, D, E",2
+10,Sat,5/24/2025,18:30,são paulo,,,,mirassol,,Estádio do Morumbi,,Head-to-Head,,16.0,12.0,1.575,1.25,,,3.0,4.0,2.0,6.0,"E, D, E, E, V",1
+10,Sun,5/25/2025,11:00,grêmio,,,,bahia,,Arena do Grêmio,,Head-to-Head,,15.0,8.0,0.68,0.9,,,5.0,3.0,5.0,6.0,"V, E, D, E, E",1
+10,Sun,5/25/2025,16:00,sport recife,,,,internacional,,Estádio Adelmar da Costa Carvalho,,Head-to-Head,,20.0,13.0,0.9,0.9400000000000001,,,1.0,4.0,7.0,10.0,"D, D, D, E, D",0
+10,Sun,5/25/2025,16:00,palmeiras,,,,flamengo,,Allianz Parque,,Head-to-Head,,1.0,2.0,1.375,1.2,,,3.0,5.0,1.0,3.0,"V, V, V, D, V",4
+10,Sun,5/25/2025,18:30,vitória,,,,santos,,Estádio Manoel Barradas,,Head-to-Head,,14.0,19.0,1.0,1.025,,,6.0,2.0,5.0,6.0,"D, V, D, E, E",1
+Wk,Day,Date,Time,home,,Score,,away,Attendance,Venue,Referee,Match Report,Notes,,,,,,,0.0,0.0,0.0,0.0,,0
+10,Sun,5/25/2025,20:30,fortaleza,,,,cruzeiro,,Estádio Castelão,,Head-to-Head,,11.0,4.0,1.35,0.9,,,8.0,5.0,2.0,5.0,"E, V, E, E, D",1
+10,Sat,5/24/2025,21:00,atlético mineiro,,,,corinthians,,Arena MRV,,Head-to-Head,,7.0,10.0,1.575,0.575,,,6.0,2.0,4.0,9.0,"V, V, E, E, V",3
+10,Mon,5/26/2025,20:00,rb bragantino,,,,juventude,,Estádio Cicero de Souza Marques,,Head-to-Head,,3.0,18.0,1.425,0.3,,,5.0,1.0,2.0,16.0,"V, E, D, V, V",3
+11,Fri,5/30/2025,,corinthians,,,,vitória,,,,Head-to-Head,,10.0,14.0,1.875,0.8,,,9.0,3.0,5.0,6.0,"V, D, V, D, V",3
+11,Fri,5/30/2025,,juventude,,,,grêmio,,,,Head-to-Head,,18.0,15.0,1.175,1.0666666666666667,,,6.0,2.0,4.0,7.0,"D, D, D, D, E",0
+11,Fri,5/30/2025,,ceará,,,,atlético mineiro,,,,Head-to-Head,,6.0,7.0,1.275,1.65,,,6.0,4.0,2.0,6.0,"V, E, V, E, D",2
+11,Fri,5/30/2025,,flamengo,,,,fortaleza,,,,Head-to-Head,,2.0,11.0,2.175,0.9750000000000001,,,12.0,2.0,1.0,3.0,"D, V, V, V, E",3
+11,Fri,5/30/2025,,vasco da gama,,,,rb bragantino,,,,Head-to-Head,,17.0,3.0,0.9500000000000001,1.125,,,5.0,5.0,3.0,4.0,"D, D, D, D, E",0
+11,Fri,5/30/2025,,internacional,,,,fluminense,,,,Head-to-Head,,13.0,5.0,1.5666666666666667,0.7749999999999999,,,6.0,4.0,2.0,7.0,"D, D, V, V, E",2
+11,Fri,5/30/2025,,bahia,,,,são paulo,,,,Head-to-Head,,8.0,16.0,1.725,0.775,,,4.0,3.0,2.0,4.0,"V, D, E, V, V",3
+11,Fri,5/30/2025,,mirassol,,,,sport recife,,,,Head-to-Head,,12.0,20.0,1.975,0.7,,,9.0,3.0,5.0,7.0,"D, V, E, E, E",1
+11,Fri,5/30/2025,,cruzeiro,,,,palmeiras,,,,Head-to-Head,,4.0,1.0,1.4,1.375,,,8.0,6.0,2.0,2.0,"V, V, D, V, D",3
+11,Fri,5/30/2025,,santos,,,,botafogo (rj),,,,Head-to-Head,,19.0,9.0,1.225,0.85,,,5.0,0.0,4.0,3.0,"D, E, E, D, D",0
+10,Wed,6/4/2025,20:00,botafogo (rj),,,,ceará,,Estádio Nilton Santos,,Head-to-Head,,9.0,6.0,1.25,1.075,,,10.0,3.0,2.0,5.0,"D, V, V, V, D",3
+12,Wed,6/11/2025,,vitória,,,,cruzeiro,,,,Head-to-Head,,14.0,4.0,1.0,0.9,,,6.0,5.0,5.0,5.0,"D, V, D, E, E",1
+12,Wed,6/11/2025,,palmeiras,,,,juventude,,,,Head-to-Head,,1.0,18.0,1.375,0.3,,,3.0,1.0,1.0,16.0,"V, V, V, D, V",4
+12,Wed,6/11/2025,,atlético mineiro,,,,internacional,,,,Head-to-Head,,7.0,13.0,1.575,0.9400000000000001,,,6.0,4.0,4.0,10.0,"V, V, E, E, V",3
+12,Wed,6/11/2025,,botafogo (rj),,,,mirassol,,,,Head-to-Head,,9.0,12.0,1.25,1.25,,,10.0,4.0,2.0,6.0,"D, V, V, V, D",3
+12,Wed,6/11/2025,,fluminense,,,,ceará,,,,Head-to-Head,,5.0,6.0,1.425,1.075,,,6.0,3.0,3.0,5.0,"V, D, V, D, E",2
+12,Wed,6/11/2025,,fortaleza,,,,santos,,,,Head-to-Head,,11.0,19.0,1.35,1.025,,,8.0,2.0,2.0,6.0,"E, V, E, E, D",1
+12,Wed,6/11/2025,,rb bragantino,,,,bahia,,,,Head-to-Head,,3.0,8.0,1.425,0.9,,,5.0,3.0,2.0,6.0,"V, E, D, V, V",3
+12,Wed,6/11/2025,,grêmio,,,,corinthians,,,,Head-to-Head,,15.0,10.0,0.68,0.575,,,5.0,2.0,5.0,9.0,"V, E, D, E, E",1
+12,Wed,6/11/2025,,sport recife,,,,flamengo,,,,Head-to-Head,,20.0,2.0,0.9,1.2,,,1.0,5.0,7.0,3.0,"D, D, D, E, D",0
+12,Wed,6/11/2025,,são paulo,,,,vasco da gama,,,,Head-to-Head,,16.0,17.0,1.575,0.8,,,3.0,2.0,2.0,8.0,"E, D, E, E, V",1
+13,Sat,7/12/2025,,cruzeiro,,,,grêmio,,,,Head-to-Head,,4.0,15.0,1.4,1.0666666666666667,,,8.0,2.0,2.0,7.0,"V, V, D, V, D",3
+13,Sat,7/12/2025,,santos,,,,palmeiras,,,,Head-to-Head,,19.0,1.0,1.225,1.375,,,5.0,6.0,4.0,2.0,"D, E, E, D, D",0
+13,Sat,7/12/2025,,corinthians,,,,rb bragantino,,,,Head-to-Head,,10.0,3.0,1.875,1.125,,,9.0,5.0,5.0,4.0,"V, D, V, D, V",3
+13,Sat,7/12/2025,,bahia,,,,atlético mineiro,,,,Head-to-Head,,8.0,7.0,1.725,1.65,,,4.0,4.0,2.0,6.0,"V, D, E, V, V",3
+13,Sat,7/12/2025,,internacional,,,,vitória,,,,Head-to-Head,,13.0,14.0,1.5666666666666667,0.8,,,6.0,3.0,2.0,6.0,"D, D, V, V, E",2
+13,Sat,7/12/2025,,flamengo,,,,são paulo,,,,Head-to-Head,,2.0,16.0,2.175,0.775,,,12.0,3.0,1.0,4.0,"D, V, V, V, E",3
+13,Sat,7/12/2025,,juventude,,,,sport recife,,,,Head-to-Head,,18.0,20.0,1.175,0.7,,,6.0,3.0,4.0,7.0,"D, D, D, D, E",0
+Wk,Day,Date,Time,home,,Score,,away,Attendance,Venue,Referee,Match Report,Notes,,,,,,,0.0,0.0,0.0,0.0,,0
+13,Sat,7/12/2025,,mirassol,,,,fluminense,,,,Head-to-Head,,12.0,5.0,1.975,0.7749999999999999,,,9.0,4.0,5.0,7.0,"D, V, E, E, E",1
+13,Sat,7/12/2025,,fortaleza,,,,ceará,,,,Head-to-Head,,11.0,6.0,1.35,1.075,,,8.0,3.0,2.0,5.0,"E, V, E, E, D",1
+13,Sat,7/12/2025,,vasco da gama,,,,botafogo (rj),,,,Head-to-Head,,17.0,9.0,0.9500000000000001,0.85,,,5.0,0.0,3.0,3.0,"D, D, D, D, E",0
+14,Wed,7/16/2025,,juventude,,,,vasco da gama,,,,Head-to-Head,,18.0,17.0,1.175,0.8,,,6.0,2.0,4.0,8.0,"D, D, D, D, E",0
+14,Wed,7/16/2025,,ceará,,,,corinthians,,,,Head-to-Head,,6.0,10.0,1.275,0.575,,,6.0,2.0,2.0,9.0,"V, E, V, E, D",2
+14,Wed,7/16/2025,,palmeiras,,,,mirassol,,,,Head-to-Head,,1.0,12.0,1.375,1.25,,,3.0,4.0,1.0,6.0,"V, V, V, D, V",4
+14,Wed,7/16/2025,,bahia,,,,internacional,,,,Head-to-Head,,8.0,13.0,1.725,0.9400000000000001,,,4.0,4.0,2.0,10.0,"V, D, E, V, V",3
+14,Wed,7/16/2025,,grêmio,,,,fortaleza,,,,Head-to-Head,,15.0,11.0,0.68,0.9750000000000001,,,5.0,2.0,5.0,3.0,"V, E, D, E, E",1
+14,Wed,7/16/2025,,atlético mineiro,,,,sport recife,,,,Head-to-Head,,7.0,20.0,1.575,0.7,,,6.0,3.0,4.0,7.0,"V, V, E, E, V",3
+14,Wed,7/16/2025,,botafogo (rj),,,,vitória,,,,Head-to-Head,,9.0,14.0,1.25,0.8,,,10.0,3.0,2.0,6.0,"D, V, V, V, D",3
+14,Wed,7/16/2025,,santos,,,,flamengo,,,,Head-to-Head,,19.0,2.0,1.225,1.2,,,5.0,5.0,4.0,3.0,"D, E, E, D, D",0
+14,Wed,7/16/2025,,rb bragantino,,,,são paulo,,,,Head-to-Head,,3.0,16.0,1.425,0.775,,,5.0,3.0,2.0,4.0,"V, E, D, V, V",3
+14,Wed,7/16/2025,,fluminense,,,,cruzeiro,,,,Head-to-Head,,5.0,4.0,1.425,0.9,,,6.0,5.0,3.0,5.0,"V, D, V, D, E",2
+15,Sat,7/19/2025,,mirassol,,,,santos,,,,Head-to-Head,,12.0,19.0,1.975,1.025,,,9.0,2.0,5.0,6.0,"D, V, E, E, E",1
+15,Sat,7/19/2025,,vasco da gama,,,,grêmio,,,,Head-to-Head,,17.0,15.0,0.9500000000000001,1.0666666666666667,,,5.0,2.0,3.0,7.0,"D, D, D, D, E",0
+15,Sat,7/19/2025,,flamengo,,,,fluminense,,,,Head-to-Head,,2.0,5.0,2.175,0.7749999999999999,,,12.0,4.0,1.0,7.0,"D, V, V, V, E",3
+15,Sat,7/19/2025,,palmeiras,,,,atlético mineiro,,,,Head-to-Head,,1.0,7.0,1.375,1.65,,,3.0,4.0,1.0,6.0,"V, V, V, D, V",4
+15,Sat,7/19/2025,,vitória,,,,rb bragantino,,,,Head-to-Head,,14.0,3.0,1.0,1.125,,,6.0,5.0,5.0,4.0,"D, V, D, E, E",1
+15,Sat,7/19/2025,,cruzeiro,,,,juventude,,,,Head-to-Head,,4.0,18.0,1.4,0.3,,,8.0,1.0,2.0,16.0,"V, V, D, V, D",3
+15,Sat,7/19/2025,,sport recife,,,,botafogo (rj),,,,Head-to-Head,,20.0,9.0,0.9,0.85,,,1.0,0.0,7.0,3.0,"D, D, D, E, D",0
+15,Sat,7/19/2025,,internacional,,,,ceará,,,,Head-to-Head,,13.0,6.0,1.5666666666666667,1.075,,,6.0,3.0,2.0,5.0,"D, D, V, V, E",2
+15,Sat,7/19/2025,,fortaleza,,,,bahia,,,,Head-to-Head,,11.0,8.0,1.35,0.9,,,8.0,3.0,2.0,6.0,"E, V, E, E, D",1
+15,Sat,7/19/2025,,são paulo,,,,corinthians,,,,Head-to-Head,,16.0,10.0,1.575,0.575,,,3.0,2.0,2.0,9.0,"E, D, E, E, V",1
+16,Wed,7/23/2025,,fluminense,,,,palmeiras,,,,Head-to-Head,,5.0,1.0,1.425,1.375,,,6.0,6.0,3.0,2.0,"V, D, V, D, E",2
+16,Wed,7/23/2025,,juventude,,,,são paulo,,,,Head-to-Head,,18.0,16.0,1.175,0.775,,,6.0,3.0,4.0,4.0,"D, D, D, D, E",0
+16,Wed,7/23/2025,,rb bragantino,,,,flamengo,,,,Head-to-Head,,3.0,2.0,1.425,1.2,,,5.0,5.0,2.0,3.0,"V, E, D, V, V",3
+16,Wed,7/23/2025,,corinthians,,,,cruzeiro,,,,Head-to-Head,,10.0,4.0,1.875,0.9,,,9.0,5.0,5.0,5.0,"V, D, V, D, V",3
+16,Wed,7/23/2025,,vasco da gama,,,,bahia,,,,Head-to-Head,,17.0,8.0,0.9500000000000001,0.9,,,5.0,3.0,3.0,6.0,"D, D, D, D, E",0
+16,Wed,7/23/2025,,santos,,,,internacional,,,,Head-to-Head,,19.0,13.0,1.225,0.9400000000000001,,,5.0,4.0,4.0,10.0,"D, E, E, D, D",0
+16,Wed,7/23/2025,,ceará,,,,mirassol,,,,Head-to-Head,,6.0,12.0,1.275,1.25,,,6.0,4.0,2.0,6.0,"V, E, V, E, D",2
+16,Wed,7/23/2025,,atlético mineiro,,,,fortaleza,,,,Head-to-Head,,7.0,11.0,1.575,0.9750000000000001,,,6.0,2.0,4.0,3.0,"V, V, E, E, V",3
+16,Wed,7/23/2025,,grêmio,,,,botafogo (rj),,,,Head-to-Head,,15.0,9.0,0.68,0.85,,,5.0,0.0,5.0,3.0,"V, E, D, E, E",1
+Wk,Day,Date,Time,home,,Score,,away,Attendance,Venue,Referee,Match Report,Notes,,,,,,,0.0,0.0,0.0,0.0,,0
+16,Wed,7/23/2025,,vitória,,,,sport recife,,,,Head-to-Head,,14.0,20.0,1.0,0.7,,,6.0,3.0,5.0,7.0,"D, V, D, E, E",1
+17,Sat,7/26/2025,,são paulo,,,,fluminense,,,,Head-to-Head,,16.0,5.0,1.575,0.7749999999999999,,,3.0,4.0,2.0,7.0,"E, D, E, E, V",1
+17,Sat,7/26/2025,,sport recife,,,,santos,,,,Head-to-Head,,20.0,19.0,0.9,1.025,,,1.0,2.0,7.0,6.0,"D, D, D, E, D",0
+17,Sat,7/26/2025,,internacional,,,,vasco da gama,,,,Head-to-Head,,13.0,17.0,1.5666666666666667,0.8,,,6.0,2.0,2.0,8.0,"D, D, V, V, E",2
+17,Sat,7/26/2025,,botafogo (rj),,,,corinthians,,,,Head-to-Head,,9.0,10.0,1.25,0.575,,,10.0,2.0,2.0,9.0,"D, V, V, V, D",3
+17,Sat,7/26/2025,,bahia,,,,juventude,,,,Head-to-Head,,8.0,18.0,1.725,0.3,,,4.0,1.0,2.0,16.0,"V, D, E, V, V",3
+17,Sat,7/26/2025,,mirassol,,,,vitória,,,,Head-to-Head,,12.0,14.0,1.975,0.8,,,9.0,3.0,5.0,6.0,"D, V, E, E, E",1
+17,Sat,7/26/2025,,cruzeiro,,,,ceará,,,,Head-to-Head,,4.0,6.0,1.4,1.075,,,8.0,3.0,2.0,5.0,"V, V, D, V, D",3
+17,Sat,7/26/2025,,fortaleza,,,,rb bragantino,,,,Head-to-Head,,11.0,3.0,1.35,1.125,,,8.0,5.0,2.0,4.0,"E, V, E, E, D",1
+17,Sat,7/26/2025,,flamengo,,,,atlético mineiro,,,,Head-to-Head,,2.0,7.0,2.175,1.65,,,12.0,4.0,1.0,6.0,"D, V, V, V, E",3
+17,Sat,7/26/2025,,palmeiras,,,,grêmio,,,,Head-to-Head,,1.0,15.0,1.375,1.0666666666666667,,,3.0,2.0,1.0,7.0,"V, V, V, D, V",4
+18,Sat,8/2/2025,,botafogo (rj),,,,cruzeiro,,,,Head-to-Head,,9.0,4.0,1.25,0.9,,,10.0,5.0,2.0,5.0,"D, V, V, V, D",3
+18,Sat,8/2/2025,,atlético mineiro,,,,rb bragantino,,,,Head-to-Head,,7.0,3.0,1.575,1.125,,,6.0,5.0,4.0,4.0,"V, V, E, E, V",3
+18,Sat,8/2/2025,,fluminense,,,,grêmio,,,,Head-to-Head,,5.0,15.0,1.425,1.0666666666666667,,,6.0,2.0,3.0,7.0,"V, D, V, D, E",2
+18,Sat,8/2/2025,,vitória,,,,palmeiras,,,,Head-to-Head,,14.0,1.0,1.0,1.375,,,6.0,6.0,5.0,2.0,"D, V, D, E, E",1
+18,Sat,8/2/2025,,corinthians,,,,fortaleza,,,,Head-to-Head,,10.0,11.0,1.875,0.9750000000000001,,,9.0,2.0,5.0,3.0,"V, D, V, D, V",3
+18,Sat,8/2/2025,,sport recife,,,,bahia,,,,Head-to-Head,,20.0,8.0,0.9,0.9,,,1.0,3.0,7.0,6.0,"D, D, D, E, D",0
+18,Sat,8/2/2025,,mirassol,,,,vasco da gama,,,,Head-to-Head,,12.0,17.0,1.975,0.8,,,9.0,2.0,5.0,8.0,"D, V, E, E, E",1
+18,Sat,8/2/2025,,santos,,,,juventude,,,,Head-to-Head,,19.0,18.0,1.225,0.3,,,5.0,1.0,4.0,16.0,"D, E, E, D, D",0
+18,Sat,8/2/2025,,ceará,,,,flamengo,,,,Head-to-Head,,6.0,2.0,1.275,1.2,,,6.0,5.0,2.0,3.0,"V, E, V, E, D",2
+18,Sat,8/2/2025,,internacional,,,,são paulo,,,,Head-to-Head,,13.0,16.0,1.5666666666666667,0.775,,,6.0,3.0,2.0,4.0,"D, D, V, V, E",2
+19,Sat,8/9/2025,,flamengo,,,,mirassol,,,,Head-to-Head,,2.0,12.0,2.175,1.25,,,12.0,4.0,1.0,6.0,"D, V, V, V, E",3
+19,Sat,8/9/2025,,bahia,,,,fluminense,,,,Head-to-Head,,8.0,5.0,1.725,0.7749999999999999,,,4.0,4.0,2.0,7.0,"V, D, E, V, V",3
+19,Sat,8/9/2025,,vasco da gama,,,,atlético mineiro,,,,Head-to-Head,,17.0,7.0,0.9500000000000001,1.65,,,5.0,4.0,3.0,6.0,"D, D, D, D, E",0
+19,Sat,8/9/2025,,fortaleza,,,,botafogo (rj),,,,Head-to-Head,,11.0,9.0,1.35,0.85,,,8.0,0.0,2.0,3.0,"E, V, E, E, D",1
+19,Sat,8/9/2025,,palmeiras,,,,ceará,,,,Head-to-Head,,1.0,6.0,1.375,1.075,,,3.0,3.0,1.0,5.0,"V, V, V, D, V",4
+19,Sat,8/9/2025,,grêmio,,,,sport recife,,,,Head-to-Head,,15.0,20.0,0.68,0.7,,,5.0,3.0,5.0,7.0,"V, E, D, E, E",1
+19,Sat,8/9/2025,,são paulo,,,,vitória,,,,Head-to-Head,,16.0,14.0,1.575,0.8,,,3.0,3.0,2.0,6.0,"E, D, E, E, V",1
+19,Sat,8/9/2025,,juventude,,,,corinthians,,,,Head-to-Head,,18.0,10.0,1.175,0.575,,,6.0,2.0,4.0,9.0,"D, D, D, D, E",0
+19,Sat,8/9/2025,,cruzeiro,,,,santos,,,,Head-to-Head,,4.0,19.0,1.4,1.025,,,8.0,2.0,2.0,6.0,"V, V, D, V, D",3
+19,Sat,8/9/2025,,rb bragantino,,,,internacional,,,,Head-to-Head,,3.0,13.0,1.425,0.9400000000000001,,,5.0,4.0,2.0,10.0,"V, E, D, V, V",3
+Wk,Day,Date,Time,home,,Score,,away,Attendance,Venue,Referee,Match Report,Notes,,,,,,,0.0,0.0,0.0,0.0,,0
+20,Sat,8/16/2025,,botafogo (rj),,,,palmeiras,,,,Head-to-Head,,9.0,1.0,1.25,1.375,,,10.0,6.0,2.0,2.0,"D, V, V, V, D",3
+20,Sat,8/16/2025,,sport recife,,,,são paulo,,,,Head-to-Head,,20.0,16.0,0.9,0.775,,,1.0,3.0,7.0,4.0,"D, D, D, E, D",0
+20,Sat,8/16/2025,,vitória,,,,juventude,,,,Head-to-Head,,14.0,18.0,1.0,0.3,,,6.0,1.0,5.0,16.0,"D, V, D, E, E",1
+20,Sat,8/16/2025,,mirassol,,,,cruzeiro,,,,Head-to-Head,,12.0,4.0,1.975,0.9,,,9.0,5.0,5.0,5.0,"D, V, E, E, E",1
+20,Sat,8/16/2025,,atlético mineiro,,,,grêmio,,,,Head-to-Head,,7.0,15.0,1.575,1.0666666666666667,,,6.0,2.0,4.0,7.0,"V, V, E, E, V",3
+20,Sat,8/16/2025,,fluminense,,,,fortaleza,,,,Head-to-Head,,5.0,11.0,1.425,0.9750000000000001,,,6.0,2.0,3.0,3.0,"V, D, V, D, E",2
+20,Sat,8/16/2025,,ceará,,,,rb bragantino,,,,Head-to-Head,,6.0,3.0,1.275,1.125,,,6.0,5.0,2.0,4.0,"V, E, V, E, D",2
+20,Sat,8/16/2025,,santos,,,,vasco da gama,,,,Head-to-Head,,19.0,17.0,1.225,0.8,,,5.0,2.0,4.0,8.0,"D, E, E, D, D",0
+20,Sat,8/16/2025,,internacional,,,,flamengo,,,,Head-to-Head,,13.0,2.0,1.5666666666666667,1.2,,,6.0,5.0,2.0,3.0,"D, D, V, V, E",2
+20,Sat,8/16/2025,,corinthians,,,,bahia,,,,Head-to-Head,,10.0,8.0,1.875,0.9,,,9.0,3.0,5.0,6.0,"V, D, V, D, V",3
+21,Sat,8/23/2025,,bahia,,,,santos,,,,Head-to-Head,,8.0,19.0,1.725,1.025,,,4.0,2.0,2.0,6.0,"V, D, E, V, V",3
+21,Sat,8/23/2025,,palmeiras,,,,sport recife,,,,Head-to-Head,,1.0,20.0,1.375,0.7,,,3.0,3.0,1.0,7.0,"V, V, V, D, V",4
+21,Sat,8/23/2025,,vasco da gama,,,,corinthians,,,,Head-to-Head,,17.0,10.0,0.9500000000000001,0.575,,,5.0,2.0,3.0,9.0,"D, D, D, D, E",0
+21,Sat,8/23/2025,,grêmio,,,,ceará,,,,Head-to-Head,,15.0,6.0,0.68,1.075,,,5.0,3.0,5.0,5.0,"V, E, D, E, E",1
+21,Sat,8/23/2025,,juventude,,,,botafogo (rj),,,,Head-to-Head,,18.0,9.0,1.175,0.85,,,6.0,0.0,4.0,3.0,"D, D, D, D, E",0
+21,Sat,8/23/2025,,cruzeiro,,,,internacional,,,,Head-to-Head,,4.0,13.0,1.4,0.9400000000000001,,,8.0,4.0,2.0,10.0,"V, V, D, V, D",3
+21,Sat,8/23/2025,,fortaleza,,,,mirassol,,,,Head-to-Head,,11.0,12.0,1.35,1.25,,,8.0,4.0,2.0,6.0,"E, V, E, E, D",1
+21,Sat,8/23/2025,,rb bragantino,,,,fluminense,,,,Head-to-Head,,3.0,5.0,1.425,0.7749999999999999,,,5.0,4.0,2.0,7.0,"V, E, D, V, V",3
+21,Sat,8/23/2025,,são paulo,,,,atlético mineiro,,,,Head-to-Head,,16.0,7.0,1.575,1.65,,,3.0,4.0,2.0,6.0,"E, D, E, E, V",1
+21,Sat,8/23/2025,,flamengo,,,,vitória,,,,Head-to-Head,,2.0,14.0,2.175,0.8,,,12.0,3.0,1.0,6.0,"D, V, V, V, E",3
+22,Sat,8/30/2025,,corinthians,,,,palmeiras,,,,Head-to-Head,,10.0,1.0,1.875,1.375,,,9.0,6.0,5.0,2.0,"V, D, V, D, V",3
+22,Sat,8/30/2025,,santos,,,,fluminense,,,,Head-to-Head,,19.0,5.0,1.225,0.7749999999999999,,,5.0,4.0,4.0,7.0,"D, E, E, D, D",0
+22,Sat,8/30/2025,,flamengo,,,,grêmio,,,,Head-to-Head,,2.0,15.0,2.175,1.0666666666666667,,,12.0,2.0,1.0,7.0,"D, V, V, V, E",3
+22,Sat,8/30/2025,,cruzeiro,,,,são paulo,,,,Head-to-Head,,4.0,16.0,1.4,0.775,,,8.0,3.0,2.0,4.0,"V, V, D, V, D",3
+22,Sat,8/30/2025,,mirassol,,,,bahia,,,,Head-to-Head,,12.0,8.0,1.975,0.9,,,9.0,3.0,5.0,6.0,"D, V, E, E, E",1
+22,Sat,8/30/2025,,internacional,,,,fortaleza,,,,Head-to-Head,,13.0,11.0,1.5666666666666667,0.9750000000000001,,,6.0,2.0,2.0,3.0,"D, D, V, V, E",2
+22,Sat,8/30/2025,,botafogo (rj),,,,rb bragantino,,,,Head-to-Head,,9.0,3.0,1.25,1.125,,,10.0,5.0,2.0,4.0,"D, V, V, V, D",3
+22,Sat,8/30/2025,,vitória,,,,atlético mineiro,,,,Head-to-Head,,14.0,7.0,1.0,1.65,,,6.0,4.0,5.0,6.0,"D, V, D, E, E",1
+22,Sat,8/30/2025,,ceará,,,,juventude,,,,Head-to-Head,,6.0,18.0,1.275,0.3,,,6.0,1.0,2.0,16.0,"V, E, V, E, D",2
+22,Sat,8/30/2025,,sport recife,,,,vasco da gama,,,,Head-to-Head,,20.0,17.0,0.9,0.8,,,1.0,2.0,7.0,8.0,"D, D, D, E, D",0
+23,Sat,9/13/2025,,grêmio,,,,mirassol,,,,Head-to-Head,,15.0,12.0,0.68,1.25,,,5.0,4.0,5.0,6.0,"V, E, D, E, E",1
+23,Sat,9/13/2025,,juventude,,,,flamengo,,,,Head-to-Head,,18.0,2.0,1.175,1.2,,,6.0,5.0,4.0,3.0,"D, D, D, D, E",0
+Wk,Day,Date,Time,home,,Score,,away,Attendance,Venue,Referee,Match Report,Notes,,,,,,,0.0,0.0,0.0,0.0,,0
+23,Sat,9/13/2025,,bahia,,,,cruzeiro,,,,Head-to-Head,,8.0,4.0,1.725,0.9,,,4.0,5.0,2.0,5.0,"V, D, E, V, V",3
+23,Sat,9/13/2025,,vasco da gama,,,,ceará,,,,Head-to-Head,,17.0,6.0,0.9500000000000001,1.075,,,5.0,3.0,3.0,5.0,"D, D, D, D, E",0
+23,Sat,9/13/2025,,atlético mineiro,,,,santos,,,,Head-to-Head,,7.0,19.0,1.575,1.025,,,6.0,2.0,4.0,6.0,"V, V, E, E, V",3
+23,Sat,9/13/2025,,são paulo,,,,botafogo (rj),,,,Head-to-Head,,16.0,9.0,1.575,0.85,,,3.0,0.0,2.0,3.0,"E, D, E, E, V",1
+23,Sat,9/13/2025,,palmeiras,,,,internacional,,,,Head-to-Head,,1.0,13.0,1.375,0.9400000000000001,,,3.0,4.0,1.0,10.0,"V, V, V, D, V",4
+23,Sat,9/13/2025,,rb bragantino,,,,sport recife,,,,Head-to-Head,,3.0,20.0,1.425,0.7,,,5.0,3.0,2.0,7.0,"V, E, D, V, V",3
+23,Sat,9/13/2025,,fortaleza,,,,vitória,,,,Head-to-Head,,11.0,14.0,1.35,0.8,,,8.0,3.0,2.0,6.0,"E, V, E, E, D",1
+23,Sat,9/13/2025,,fluminense,,,,corinthians,,,,Head-to-Head,,5.0,10.0,1.425,0.575,,,6.0,2.0,3.0,9.0,"V, D, V, D, E",2
+24,Sat,9/20/2025,,palmeiras,,,,fortaleza,,,,Head-to-Head,,1.0,11.0,1.375,0.9750000000000001,,,3.0,2.0,1.0,3.0,"V, V, V, D, V",4
+24,Sat,9/20/2025,,internacional,,,,grêmio,,,,Head-to-Head,,13.0,15.0,1.5666666666666667,1.0666666666666667,,,6.0,2.0,2.0,7.0,"D, D, V, V, E",2
+24,Sat,9/20/2025,,vitória,,,,fluminense,,,,Head-to-Head,,14.0,5.0,1.0,0.7749999999999999,,,6.0,4.0,5.0,7.0,"D, V, D, E, E",1
+24,Sat,9/20/2025,,ceará,,,,bahia,,,,Head-to-Head,,6.0,8.0,1.275,0.9,,,6.0,3.0,2.0,6.0,"V, E, V, E, D",2
+24,Sat,9/20/2025,,cruzeiro,,,,rb bragantino,,,,Head-to-Head,,4.0,3.0,1.4,1.125,,,8.0,5.0,2.0,4.0,"V, V, D, V, D",3
+24,Sat,9/20/2025,,botafogo (rj),,,,atlético mineiro,,,,Head-to-Head,,9.0,7.0,1.25,1.65,,,10.0,4.0,2.0,6.0,"D, V, V, V, D",3
+24,Sat,9/20/2025,,flamengo,,,,vasco da gama,,,,Head-to-Head,,2.0,17.0,2.175,0.8,,,12.0,2.0,1.0,8.0,"D, V, V, V, E",3
+24,Sat,9/20/2025,,mirassol,,,,juventude,,,,Head-to-Head,,12.0,18.0,1.975,0.3,,,9.0,1.0,5.0,16.0,"D, V, E, E, E",1
+24,Sat,9/20/2025,,santos,,,,são paulo,,,,Head-to-Head,,19.0,16.0,1.225,0.775,,,5.0,3.0,4.0,4.0,"D, E, E, D, D",0
+24,Sat,9/20/2025,,sport recife,,,,corinthians,,,,Head-to-Head,,20.0,10.0,0.9,0.575,,,1.0,2.0,7.0,9.0,"D, D, D, E, D",0
+25,Sat,9/27/2025,,rb bragantino,,,,santos,,,,Head-to-Head,,3.0,19.0,1.425,1.025,,,5.0,2.0,2.0,6.0,"V, E, D, V, V",3
+25,Sat,9/27/2025,,fluminense,,,,botafogo (rj),,,,Head-to-Head,,5.0,9.0,1.425,0.85,,,6.0,0.0,3.0,3.0,"V, D, V, D, E",2
+25,Sat,9/27/2025,,grêmio,,,,vitória,,,,Head-to-Head,,15.0,14.0,0.68,0.8,,,5.0,3.0,5.0,6.0,"V, E, D, E, E",1
+25,Sat,9/27/2025,,juventude,,,,internacional,,,,Head-to-Head,,18.0,13.0,1.175,0.9400000000000001,,,6.0,4.0,4.0,10.0,"D, D, D, D, E",0
+25,Sat,9/27/2025,,bahia,,,,palmeiras,,,,Head-to-Head,,8.0,1.0,1.725,1.375,,,4.0,6.0,2.0,2.0,"V, D, E, V, V",3
+25,Sat,9/27/2025,,fortaleza,,,,sport recife,,,,Head-to-Head,,11.0,20.0,1.35,0.7,,,8.0,3.0,2.0,7.0,"E, V, E, E, D",1
+25,Sat,9/27/2025,,corinthians,,,,flamengo,,,,Head-to-Head,,10.0,2.0,1.875,1.2,,,9.0,5.0,5.0,3.0,"V, D, V, D, V",3
+25,Sat,9/27/2025,,são paulo,,,,ceará,,,,Head-to-Head,,16.0,6.0,1.575,1.075,,,3.0,3.0,2.0,5.0,"E, D, E, E, V",1
+25,Sat,9/27/2025,,vasco da gama,,,,cruzeiro,,,,Head-to-Head,,17.0,4.0,0.9500000000000001,0.9,,,5.0,5.0,3.0,5.0,"D, D, D, D, E",0
+25,Sat,9/27/2025,,atlético mineiro,,,,mirassol,,,,Head-to-Head,,7.0,12.0,1.575,1.25,,,6.0,4.0,4.0,6.0,"V, V, E, E, V",3
+26,Wed,10/1/2025,,flamengo,,,,cruzeiro,,,,Head-to-Head,,2.0,4.0,2.175,0.9,,,12.0,5.0,1.0,5.0,"D, V, V, V, E",3
+26,Wed,10/1/2025,,palmeiras,,,,vasco da gama,,,,Head-to-Head,,1.0,17.0,1.375,0.8,,,3.0,2.0,1.0,8.0,"V, V, V, D, V",4
+26,Wed,10/1/2025,,fortaleza,,,,são paulo,,,,Head-to-Head,,11.0,16.0,1.35,0.775,,,8.0,3.0,2.0,4.0,"E, V, E, E, D",1
+26,Wed,10/1/2025,,internacional,,,,corinthians,,,,Head-to-Head,,13.0,10.0,1.5666666666666667,0.575,,,6.0,2.0,2.0,9.0,"D, D, V, V, E",2
+Wk,Day,Date,Time,home,,Score,,away,Attendance,Venue,Referee,Match Report,Notes,,,,,,,0.0,0.0,0.0,0.0,,0
+26,Wed,10/1/2025,,sport recife,,,,fluminense,,,,Head-to-Head,,20.0,5.0,0.9,0.7749999999999999,,,1.0,4.0,7.0,7.0,"D, D, D, E, D",0
+26,Wed,10/1/2025,,mirassol,,,,rb bragantino,,,,Head-to-Head,,12.0,3.0,1.975,1.125,,,9.0,5.0,5.0,4.0,"D, V, E, E, E",1
+26,Wed,10/1/2025,,vitória,,,,ceará,,,,Head-to-Head,,14.0,6.0,1.0,1.075,,,6.0,3.0,5.0,5.0,"D, V, D, E, E",1
+26,Wed,10/1/2025,,atlético mineiro,,,,juventude,,,,Head-to-Head,,7.0,18.0,1.575,0.3,,,6.0,1.0,4.0,16.0,"V, V, E, E, V",3
+26,Wed,10/1/2025,,santos,,,,grêmio,,,,Head-to-Head,,19.0,15.0,1.225,1.0666666666666667,,,5.0,2.0,4.0,7.0,"D, E, E, D, D",0
+26,Wed,10/1/2025,,botafogo (rj),,,,bahia,,,,Head-to-Head,,9.0,8.0,1.25,0.9,,,10.0,3.0,2.0,6.0,"D, V, V, V, D",3
+27,Thu,10/16/2025,,vasco da gama,,,,vitória,,,,Head-to-Head,,17.0,14.0,0.9500000000000001,0.8,,,5.0,3.0,3.0,6.0,"D, D, D, D, E",0
+27,Thu,10/16/2025,,ceará,,,,santos,,,,Head-to-Head,,6.0,19.0,1.275,1.025,,,6.0,2.0,2.0,6.0,"V, E, V, E, D",2
+27,Thu,10/16/2025,,cruzeiro,,,,sport recife,,,,Head-to-Head,,4.0,20.0,1.4,0.7,,,8.0,3.0,2.0,7.0,"V, V, D, V, D",3
+27,Thu,10/16/2025,,corinthians,,,,mirassol,,,,Head-to-Head,,10.0,12.0,1.875,1.25,,,9.0,4.0,5.0,6.0,"V, D, V, D, V",3
+27,Thu,10/16/2025,,bahia,,,,flamengo,,,,Head-to-Head,,8.0,2.0,1.725,1.2,,,4.0,5.0,2.0,3.0,"V, D, E, V, V",3
+27,Thu,10/16/2025,,são paulo,,,,palmeiras,,,,Head-to-Head,,16.0,1.0,1.575,1.375,,,3.0,6.0,2.0,2.0,"E, D, E, E, V",1
+27,Thu,10/16/2025,,rb bragantino,,,,grêmio,,,,Head-to-Head,,3.0,15.0,1.425,1.0666666666666667,,,5.0,2.0,2.0,7.0,"V, E, D, V, V",3
+27,Thu,10/16/2025,,internacional,,,,botafogo (rj),,,,Head-to-Head,,13.0,9.0,1.5666666666666667,0.85,,,6.0,0.0,2.0,3.0,"D, D, V, V, E",2
+27,Thu,10/16/2025,,juventude,,,,fortaleza,,,,Head-to-Head,,18.0,11.0,1.175,0.9750000000000001,,,6.0,2.0,4.0,3.0,"D, D, D, D, E",0
+27,Thu,10/16/2025,,fluminense,,,,atlético mineiro,,,,Head-to-Head,,5.0,7.0,1.425,1.65,,,6.0,4.0,3.0,6.0,"V, D, V, D, E",2
+28,Sat,10/25/2025,,grêmio,,,,são paulo,,,,Head-to-Head,,15.0,16.0,0.68,0.775,,,5.0,3.0,5.0,4.0,"V, E, D, E, E",1
+28,Sat,10/25/2025,,vitória,,,,bahia,,,,Head-to-Head,,14.0,8.0,1.0,0.9,,,6.0,3.0,5.0,6.0,"D, V, D, E, E",1
+28,Sat,10/25/2025,,atlético mineiro,,,,cruzeiro,,,,Head-to-Head,,7.0,4.0,1.575,0.9,,,6.0,5.0,4.0,5.0,"V, V, E, E, V",3
+28,Sat,10/25/2025,,mirassol,,,,internacional,,,,Head-to-Head,,12.0,13.0,1.975,0.9400000000000001,,,9.0,4.0,5.0,10.0,"D, V, E, E, E",1
+28,Sat,10/25/2025,,santos,,,,corinthians,,,,Head-to-Head,,19.0,10.0,1.225,0.575,,,5.0,2.0,4.0,9.0,"D, E, E, D, D",0
+28,Sat,10/25/2025,,fluminense,,,,juventude,,,,Head-to-Head,,5.0,18.0,1.425,0.3,,,6.0,1.0,3.0,16.0,"V, D, V, D, E",2
+28,Sat,10/25/2025,,botafogo (rj),,,,flamengo,,,,Head-to-Head,,9.0,2.0,1.25,1.2,,,10.0,5.0,2.0,3.0,"D, V, V, V, D",3
+28,Sat,10/25/2025,,palmeiras,,,,rb bragantino,,,,Head-to-Head,,1.0,3.0,1.375,1.125,,,3.0,5.0,1.0,4.0,"V, V, V, D, V",4
+28,Sat,10/25/2025,,fortaleza,,,,vasco da gama,,,,Head-to-Head,,11.0,17.0,1.35,0.8,,,8.0,2.0,2.0,8.0,"E, V, E, E, D",1
+28,Sat,10/25/2025,,sport recife,,,,ceará,,,,Head-to-Head,,20.0,6.0,0.9,1.075,,,1.0,3.0,7.0,5.0,"D, D, D, E, D",0
+29,Wed,11/5/2025,,santos,,,,vitória,,,,Head-to-Head,,19.0,14.0,1.225,0.8,,,5.0,3.0,4.0,6.0,"D, E, E, D, D",0
+29,Wed,11/5/2025,,corinthians,,,,atlético mineiro,,,,Head-to-Head,,10.0,7.0,1.875,1.65,,,9.0,4.0,5.0,6.0,"V, D, V, D, V",3
+29,Wed,11/5/2025,,flamengo,,,,palmeiras,,,,Head-to-Head,,2.0,1.0,2.175,1.375,,,12.0,6.0,1.0,2.0,"D, V, V, V, E",3
+29,Wed,11/5/2025,,juventude,,,,rb bragantino,,,,Head-to-Head,,18.0,3.0,1.175,1.125,,,6.0,5.0,4.0,4.0,"D, D, D, D, E",0
+29,Wed,11/5/2025,,ceará,,,,botafogo (rj),,,,Head-to-Head,,6.0,9.0,1.275,0.85,,,6.0,0.0,2.0,3.0,"V, E, V, E, D",2
+29,Wed,11/5/2025,,mirassol,,,,são paulo,,,,Head-to-Head,,12.0,16.0,1.975,0.775,,,9.0,3.0,5.0,4.0,"D, V, E, E, E",1
+Wk,Day,Date,Time,home,,Score,,away,Attendance,Venue,Referee,Match Report,Notes,,,,,,,0.0,0.0,0.0,0.0,,0
+29,Wed,11/5/2025,,vasco da gama,,,,fluminense,,,,Head-to-Head,,17.0,5.0,0.9500000000000001,0.7749999999999999,,,5.0,4.0,3.0,7.0,"D, D, D, D, E",0
+29,Wed,11/5/2025,,bahia,,,,grêmio,,,,Head-to-Head,,8.0,15.0,1.725,1.0666666666666667,,,4.0,2.0,2.0,7.0,"V, D, E, V, V",3
+29,Wed,11/5/2025,,internacional,,,,sport recife,,,,Head-to-Head,,13.0,20.0,1.5666666666666667,0.7,,,6.0,3.0,2.0,7.0,"D, D, V, V, E",2
+29,Wed,11/5/2025,,cruzeiro,,,,fortaleza,,,,Head-to-Head,,4.0,11.0,1.4,0.9750000000000001,,,8.0,2.0,2.0,3.0,"V, V, D, V, D",3
+30,Wed,11/19/2025,,grêmio,,,,juventude,,,,Head-to-Head,,15.0,18.0,0.68,0.3,,,5.0,1.0,5.0,16.0,"V, E, D, E, E",1
+30,Wed,11/19/2025,,fluminense,,,,internacional,,,,Head-to-Head,,5.0,13.0,1.425,0.9400000000000001,,,6.0,4.0,3.0,10.0,"V, D, V, D, E",2
+30,Wed,11/19/2025,,vitória,,,,corinthians,,,,Head-to-Head,,14.0,10.0,1.0,0.575,,,6.0,2.0,5.0,9.0,"D, V, D, E, E",1
+30,Wed,11/19/2025,,sport recife,,,,mirassol,,,,Head-to-Head,,20.0,12.0,0.9,1.25,,,1.0,4.0,7.0,6.0,"D, D, D, E, D",0
+30,Wed,11/19/2025,,botafogo (rj),,,,santos,,,,Head-to-Head,,9.0,19.0,1.25,1.025,,,10.0,2.0,2.0,6.0,"D, V, V, V, D",3
+30,Wed,11/19/2025,,fortaleza,,,,flamengo,,,,Head-to-Head,,11.0,2.0,1.35,1.2,,,8.0,5.0,2.0,3.0,"E, V, E, E, D",1
+30,Wed,11/19/2025,,rb bragantino,,,,vasco da gama,,,,Head-to-Head,,3.0,17.0,1.425,0.8,,,5.0,2.0,2.0,8.0,"V, E, D, V, V",3
+30,Wed,11/19/2025,,são paulo,,,,bahia,,,,Head-to-Head,,16.0,8.0,1.575,0.9,,,3.0,3.0,2.0,6.0,"E, D, E, E, V",1
+30,Wed,11/19/2025,,atlético mineiro,,,,ceará,,,,Head-to-Head,,7.0,6.0,1.575,1.075,,,6.0,3.0,4.0,5.0,"V, V, E, E, V",3
+30,Wed,11/19/2025,,palmeiras,,,,cruzeiro,,,,Head-to-Head,,1.0,4.0,1.375,0.9,,,3.0,5.0,1.0,5.0,"V, V, V, D, V",4
+31,Sat,11/22/2025,,vasco da gama,,,,são paulo,,,,Head-to-Head,,17.0,16.0,0.9500000000000001,0.775,,,5.0,3.0,3.0,4.0,"D, D, D, D, E",0
+31,Sat,11/22/2025,,corinthians,,,,grêmio,,,,Head-to-Head,,10.0,15.0,1.875,1.0666666666666667,,,9.0,2.0,5.0,7.0,"V, D, V, D, V",3
+31,Sat,11/22/2025,,ceará,,,,fluminense,,,,Head-to-Head,,6.0,5.0,1.275,0.7749999999999999,,,6.0,4.0,2.0,7.0,"V, E, V, E, D",2
+31,Sat,11/22/2025,,cruzeiro,,,,vitória,,,,Head-to-Head,,4.0,14.0,1.4,0.8,,,8.0,3.0,2.0,6.0,"V, V, D, V, D",3
+31,Sat,11/22/2025,,bahia,,,,rb bragantino,,,,Head-to-Head,,8.0,3.0,1.725,1.125,,,4.0,5.0,2.0,4.0,"V, D, E, V, V",3
+31,Sat,11/22/2025,,mirassol,,,,botafogo (rj),,,,Head-to-Head,,12.0,9.0,1.975,0.85,,,9.0,0.0,5.0,3.0,"D, V, E, E, E",1
+31,Sat,11/22/2025,,santos,,,,fortaleza,,,,Head-to-Head,,19.0,11.0,1.225,0.9750000000000001,,,5.0,2.0,4.0,3.0,"D, E, E, D, D",0
+31,Sat,11/22/2025,,juventude,,,,palmeiras,,,,Head-to-Head,,18.0,1.0,1.175,1.375,,,6.0,6.0,4.0,2.0,"D, D, D, D, E",0
+31,Sat,11/22/2025,,internacional,,,,atlético mineiro,,,,Head-to-Head,,13.0,7.0,1.5666666666666667,1.65,,,6.0,4.0,2.0,6.0,"D, D, V, V, E",2
+31,Sat,11/22/2025,,flamengo,,,,sport recife,,,,Head-to-Head,,2.0,20.0,2.175,0.7,,,12.0,3.0,1.0,7.0,"D, V, V, V, E",3
+32,Sat,11/29/2025,,fluminense,,,,mirassol,,,,Head-to-Head,,5.0,12.0,1.425,1.25,,,6.0,4.0,3.0,6.0,"V, D, V, D, E",2
+32,Sat,11/29/2025,,vitória,,,,internacional,,,,Head-to-Head,,14.0,13.0,1.0,0.9400000000000001,,,6.0,4.0,5.0,10.0,"D, V, D, E, E",1
+32,Sat,11/29/2025,,grêmio,,,,cruzeiro,,,,Head-to-Head,,15.0,4.0,0.68,0.9,,,5.0,5.0,5.0,5.0,"V, E, D, E, E",1
+32,Sat,11/29/2025,,atlético mineiro,,,,bahia,,,,Head-to-Head,,7.0,8.0,1.575,0.9,,,6.0,3.0,4.0,6.0,"V, V, E, E, V",3
+32,Sat,11/29/2025,,ceará,,,,fortaleza,,,,Head-to-Head,,6.0,11.0,1.275,0.9750000000000001,,,6.0,2.0,2.0,3.0,"V, E, V, E, D",2
+32,Sat,11/29/2025,,sport recife,,,,juventude,,,,Head-to-Head,,20.0,18.0,0.9,0.3,,,1.0,1.0,7.0,16.0,"D, D, D, E, D",0
+32,Sat,11/29/2025,,rb bragantino,,,,corinthians,,,,Head-to-Head,,3.0,10.0,1.425,0.575,,,5.0,2.0,2.0,9.0,"V, E, D, V, V",3
+32,Sat,11/29/2025,,botafogo (rj),,,,vasco da gama,,,,Head-to-Head,,9.0,17.0,1.25,0.8,,,10.0,2.0,2.0,8.0,"D, V, V, V, D",3
+Wk,Day,Date,Time,home,,Score,,away,Attendance,Venue,Referee,Match Report,Notes,,,,,,,0.0,0.0,0.0,0.0,,0
+32,Sat,11/29/2025,,palmeiras,,,,santos,,,,Head-to-Head,,1.0,19.0,1.375,1.025,,,3.0,2.0,1.0,6.0,"V, V, V, D, V",4
+32,Sat,11/29/2025,,são paulo,,,,flamengo,,,,Head-to-Head,,16.0,2.0,1.575,1.2,,,3.0,5.0,2.0,3.0,"E, D, E, E, V",1
+33,Wed,12/3/2025,,fortaleza,,,,grêmio,,,,Head-to-Head,,11.0,15.0,1.35,1.0666666666666667,,,8.0,2.0,2.0,7.0,"E, V, E, E, D",1
+33,Wed,12/3/2025,,vitória,,,,botafogo (rj),,,,Head-to-Head,,14.0,9.0,1.0,0.85,,,6.0,0.0,5.0,3.0,"D, V, D, E, E",1
+33,Wed,12/3/2025,,vasco da gama,,,,juventude,,,,Head-to-Head,,17.0,18.0,0.9500000000000001,0.3,,,5.0,1.0,3.0,16.0,"D, D, D, D, E",0
+33,Wed,12/3/2025,,internacional,,,,bahia,,,,Head-to-Head,,13.0,8.0,1.5666666666666667,0.9,,,6.0,3.0,2.0,6.0,"D, D, V, V, E",2
+33,Wed,12/3/2025,,cruzeiro,,,,fluminense,,,,Head-to-Head,,4.0,5.0,1.4,0.7749999999999999,,,8.0,4.0,2.0,7.0,"V, V, D, V, D",3
+33,Wed,12/3/2025,,sport recife,,,,atlético mineiro,,,,Head-to-Head,,20.0,7.0,0.9,1.65,,,1.0,4.0,7.0,6.0,"D, D, D, E, D",0
+33,Wed,12/3/2025,,flamengo,,,,santos,,,,Head-to-Head,,2.0,19.0,2.175,1.025,,,12.0,2.0,1.0,6.0,"D, V, V, V, E",3
+33,Wed,12/3/2025,,corinthians,,,,ceará,,,,Head-to-Head,,10.0,6.0,1.875,1.075,,,9.0,3.0,5.0,5.0,"V, D, V, D, V",3
+33,Wed,12/3/2025,,são paulo,,,,rb bragantino,,,,Head-to-Head,,16.0,3.0,1.575,1.125,,,3.0,5.0,2.0,4.0,"E, D, E, E, V",1
+33,Wed,12/3/2025,,mirassol,,,,palmeiras,,,,Head-to-Head,,12.0,1.0,1.975,1.375,,,9.0,6.0,5.0,2.0,"D, V, E, E, E",1
+34,Sat,12/6/2025,,juventude,,,,cruzeiro,,,,Head-to-Head,,18.0,4.0,1.175,0.9,,,6.0,5.0,4.0,5.0,"D, D, D, D, E",0
+34,Sat,12/6/2025,,grêmio,,,,vasco da gama,,,,Head-to-Head,,15.0,17.0,0.68,0.8,,,5.0,2.0,5.0,8.0,"V, E, D, E, E",1
+34,Sat,12/6/2025,,ceará,,,,internacional,,,,Head-to-Head,,6.0,13.0,1.275,0.9400000000000001,,,6.0,4.0,2.0,10.0,"V, E, V, E, D",2
+34,Sat,12/6/2025,,botafogo (rj),,,,sport recife,,,,Head-to-Head,,9.0,20.0,1.25,0.7,,,10.0,3.0,2.0,7.0,"D, V, V, V, D",3
+34,Sat,12/6/2025,,fluminense,,,,flamengo,,,,Head-to-Head,,5.0,2.0,1.425,1.2,,,6.0,5.0,3.0,3.0,"V, D, V, D, E",2
+34,Sat,12/6/2025,,rb bragantino,,,,vitória,,,,Head-to-Head,,3.0,14.0,1.425,0.8,,,5.0,3.0,2.0,6.0,"V, E, D, V, V",3
+34,Sat,12/6/2025,,atlético mineiro,,,,palmeiras,,,,Head-to-Head,,7.0,1.0,1.575,1.375,,,6.0,6.0,4.0,2.0,"V, V, E, E, V",3
+34,Sat,12/6/2025,,santos,,,,mirassol,,,,Head-to-Head,,19.0,12.0,1.225,1.25,,,5.0,4.0,4.0,6.0,"D, E, E, D, D",0
+34,Sat,12/6/2025,,bahia,,,,fortaleza,,,,Head-to-Head,,8.0,11.0,1.725,0.9750000000000001,,,4.0,2.0,2.0,3.0,"V, D, E, V, V",3
+34,Sat,12/6/2025,,corinthians,,,,são paulo,,,,Head-to-Head,,10.0,16.0,1.875,0.775,,,9.0,3.0,5.0,4.0,"V, D, V, D, V",3
+35,Wed,12/10/2025,,botafogo (rj),,,,grêmio,,,,Head-to-Head,,9.0,15.0,1.25,1.0666666666666667,,,10.0,2.0,2.0,7.0,"D, V, V, V, D",3
+35,Wed,12/10/2025,,cruzeiro,,,,corinthians,,,,Head-to-Head,,4.0,10.0,1.4,0.575,,,8.0,2.0,2.0,9.0,"V, V, D, V, D",3
+35,Wed,12/10/2025,,são paulo,,,,juventude,,,,Head-to-Head,,16.0,18.0,1.575,0.3,,,3.0,1.0,2.0,16.0,"E, D, E, E, V",1
+35,Wed,12/10/2025,,internacional,,,,santos,,,,Head-to-Head,,13.0,19.0,1.5666666666666667,1.025,,,6.0,2.0,2.0,6.0,"D, D, V, V, E",2
+35,Wed,12/10/2025,,palmeiras,,,,fluminense,,,,Head-to-Head,,1.0,5.0,1.375,0.7749999999999999,,,3.0,4.0,1.0,7.0,"V, V, V, D, V",4
+35,Wed,12/10/2025,,fortaleza,,,,atlético mineiro,,,,Head-to-Head,,11.0,7.0,1.35,1.65,,,8.0,4.0,2.0,6.0,"E, V, E, E, D",1
+35,Wed,12/10/2025,,mirassol,,,,ceará,,,,Head-to-Head,,12.0,6.0,1.975,1.075,,,9.0,3.0,5.0,5.0,"D, V, E, E, E",1
+35,Wed,12/10/2025,,bahia,,,,vasco da gama,,,,Head-to-Head,,8.0,17.0,1.725,0.8,,,4.0,2.0,2.0,8.0,"V, D, E, V, V",3
+35,Wed,12/10/2025,,sport recife,,,,vitória,,,,Head-to-Head,,20.0,14.0,0.9,0.8,,,1.0,3.0,7.0,6.0,"D, D, D, E, D",0
+35,Wed,12/10/2025,,flamengo,,,,rb bragantino,,,,Head-to-Head,,2.0,3.0,2.175,1.125,,,12.0,5.0,1.0,4.0,"D, V, V, V, E",3
+Wk,Day,Date,Time,home,,Score,,away,Attendance,Venue,Referee,Match Report,Notes,,,,,,,0.0,0.0,0.0,0.0,,0
+36,Sat,12/13/2025,,ceará,,,,cruzeiro,,,,Head-to-Head,,6.0,4.0,1.275,0.9,,,6.0,5.0,2.0,5.0,"V, E, V, E, D",2
+36,Sat,12/13/2025,,corinthians,,,,botafogo (rj),,,,Head-to-Head,,10.0,9.0,1.875,0.85,,,9.0,0.0,5.0,3.0,"V, D, V, D, V",3
+36,Sat,12/13/2025,,vitória,,,,mirassol,,,,Head-to-Head,,14.0,12.0,1.0,1.25,,,6.0,4.0,5.0,6.0,"D, V, D, E, E",1
+36,Sat,12/13/2025,,santos,,,,sport recife,,,,Head-to-Head,,19.0,20.0,1.225,0.7,,,5.0,3.0,4.0,7.0,"D, E, E, D, D",0
+36,Sat,12/13/2025,,vasco da gama,,,,internacional,,,,Head-to-Head,,17.0,13.0,0.9500000000000001,0.9400000000000001,,,5.0,4.0,3.0,10.0,"D, D, D, D, E",0
+36,Sat,12/13/2025,,fluminense,,,,são paulo,,,,Head-to-Head,,5.0,16.0,1.425,0.775,,,6.0,3.0,3.0,4.0,"V, D, V, D, E",2
+36,Sat,12/13/2025,,atlético mineiro,,,,flamengo,,,,Head-to-Head,,7.0,2.0,1.575,1.2,,,6.0,5.0,4.0,3.0,"V, V, E, E, V",3
+36,Sat,12/13/2025,,grêmio,,,,palmeiras,,,,Head-to-Head,,15.0,1.0,0.68,1.375,,,5.0,6.0,5.0,2.0,"V, E, D, E, E",1
+36,Sat,12/13/2025,,rb bragantino,,,,fortaleza,,,,Head-to-Head,,3.0,11.0,1.425,0.9750000000000001,,,5.0,2.0,2.0,3.0,"V, E, D, V, V",3
+36,Sat,12/13/2025,,juventude,,,,bahia,,,,Head-to-Head,,18.0,8.0,1.175,0.9,,,6.0,3.0,4.0,6.0,"D, D, D, D, E",0
+37,Wed,12/17/2025,,juventude,,,,santos,,,,Head-to-Head,,18.0,19.0,1.175,1.025,,,6.0,2.0,4.0,6.0,"D, D, D, D, E",0
+37,Wed,12/17/2025,,fortaleza,,,,corinthians,,,,Head-to-Head,,11.0,10.0,1.35,0.575,,,8.0,2.0,2.0,9.0,"E, V, E, E, D",1
+37,Wed,12/17/2025,,vasco da gama,,,,mirassol,,,,Head-to-Head,,17.0,12.0,0.9500000000000001,1.25,,,5.0,4.0,3.0,6.0,"D, D, D, D, E",0
+37,Wed,12/17/2025,,bahia,,,,sport recife,,,,Head-to-Head,,8.0,20.0,1.725,0.7,,,4.0,3.0,2.0,7.0,"V, D, E, V, V",3
+37,Wed,12/17/2025,,grêmio,,,,fluminense,,,,Head-to-Head,,15.0,5.0,0.68,0.7749999999999999,,,5.0,4.0,5.0,7.0,"V, E, D, E, E",1
+37,Wed,12/17/2025,,flamengo,,,,ceará,,,,Head-to-Head,,2.0,6.0,2.175,1.075,,,12.0,3.0,1.0,5.0,"D, V, V, V, E",3
+37,Wed,12/17/2025,,cruzeiro,,,,botafogo (rj),,,,Head-to-Head,,4.0,9.0,1.4,0.85,,,8.0,0.0,2.0,3.0,"V, V, D, V, D",3
+37,Wed,12/17/2025,,palmeiras,,,,vitória,,,,Head-to-Head,,1.0,14.0,1.375,0.8,,,3.0,3.0,1.0,6.0,"V, V, V, D, V",4
+37,Wed,12/17/2025,,são paulo,,,,internacional,,,,Head-to-Head,,16.0,13.0,1.575,0.9400000000000001,,,3.0,4.0,2.0,10.0,"E, D, E, E, V",1
+37,Wed,12/17/2025,,rb bragantino,,,,atlético mineiro,,,,Head-to-Head,,3.0,7.0,1.425,1.65,,,5.0,4.0,2.0,6.0,"V, E, D, V, V",3
+38,Sun,12/21/2025,,botafogo (rj),,,,fortaleza,,,,Head-to-Head,,9.0,11.0,1.25,0.9750000000000001,,,10.0,2.0,2.0,3.0,"D, V, V, V, D",3
+38,Sun,12/21/2025,,internacional,,,,rb bragantino,,,,Head-to-Head,,13.0,3.0,1.5666666666666667,1.125,,,6.0,5.0,2.0,4.0,"D, D, V, V, E",2
+38,Sun,12/21/2025,,santos,,,,cruzeiro,,,,Head-to-Head,,19.0,4.0,1.225,0.9,,,5.0,5.0,4.0,5.0,"D, E, E, D, D",0
+38,Sun,12/21/2025,,ceará,,,,palmeiras,,,,Head-to-Head,,6.0,1.0,1.275,1.375,,,6.0,6.0,2.0,2.0,"V, E, V, E, D",2
+38,Sun,12/21/2025,,fluminense,,,,bahia,,,,Head-to-Head,,5.0,8.0,1.425,0.9,,,6.0,3.0,3.0,6.0,"V, D, V, D, E",2
+38,Sun,12/21/2025,,atlético mineiro,,,,vasco da gama,,,,Head-to-Head,,7.0,17.0,1.575,0.8,,,6.0,2.0,4.0,8.0,"V, V, E, E, V",3
+38,Sun,12/21/2025,,mirassol,,,,flamengo,,,,Head-to-Head,,12.0,2.0,1.975,1.2,,,9.0,5.0,5.0,3.0,"D, V, E, E, E",1
+38,Sun,12/21/2025,,vitória,,,,são paulo,,,,Head-to-Head,,14.0,16.0,1.0,0.775,,,6.0,3.0,5.0,4.0,"D, V, D, E, E",1
+38,Sun,12/21/2025,,sport recife,,,,grêmio,,,,Head-to-Head,,20.0,15.0,0.9,1.0666666666666667,,,1.0,2.0,7.0,7.0,"D, D, D, E, D",0
+38,Sun,12/21/2025,,corinthians,,,,juventude,,,,Head-to-Head,,10.0,18.0,1.875,0.3,,,9.0,1.0,5.0,16.0,"V, D, V, D, V",3
+35,Wed,12/10/2025,,mirassol,,,,ceará,,,,Head-to-Head,,12.0,6.0,1.975,1.075,,,9.0,3.0,5.0,5.0,"D, V, E, E, E",1
+35,Wed,12/10/2025,,bahia,,,,vasco da gama,,,,Head-to-Head,,8.0,17.0,1.725,0.8,,,4.0,2.0,2.0,8.0,"V, D, E, V, V",3
+35,Wed,12/10/2025,,sport recife,,,,vitória,,,,Head-to-Head,,20.0,14.0,0.9,0.8,,,1.0,3.0,7.0,6.0,"D, D, D, E, D",0
+35,Wed,12/10/2025,,flamengo,,,,rb bragantino,,,,Head-to-Head,,2.0,3.0,2.175,1.125,,,12.0,5.0,1.0,4.0,"D, V, V, V, E",3
+Wk,Day,Date,Time,home,,Score,,away,Attendance,Venue,Referee,Match Report,Notes,,,,,,,0.0,0.0,0.0,0.0,,0
+,,,,,,,,,,,,,,,,,,,,,,,,,0
+36,Sat,12/13/2025,,ceará,,,,cruzeiro,,,,Head-to-Head,,6.0,4.0,1.275,0.9,,,6.0,5.0,2.0,5.0,"V, E, V, E, D",2
+36,Sat,12/13/2025,,corinthians,,,,botafogo (rj),,,,Head-to-Head,,10.0,9.0,1.875,0.85,,,9.0,0.0,5.0,3.0,"V, D, V, D, V",3
+36,Sat,12/13/2025,,vitória,,,,mirassol,,,,Head-to-Head,,14.0,12.0,1.0,1.25,,,6.0,4.0,5.0,6.0,"D, V, D, E, E",1
+36,Sat,12/13/2025,,santos,,,,sport recife,,,,Head-to-Head,,19.0,20.0,1.225,0.7,,,5.0,3.0,4.0,7.0,"D, E, E, D, D",0
+36,Sat,12/13/2025,,vasco da gama,,,,internacional,,,,Head-to-Head,,17.0,13.0,0.9500000000000001,0.9400000000000001,,,5.0,4.0,3.0,10.0,"D, D, D, D, E",0
+36,Sat,12/13/2025,,fluminense,,,,são paulo,,,,Head-to-Head,,5.0,16.0,1.425,0.775,,,6.0,3.0,3.0,4.0,"V, D, V, D, E",2
+36,Sat,12/13/2025,,atlético mineiro,,,,flamengo,,,,Head-to-Head,,7.0,2.0,1.575,1.2,,,6.0,5.0,4.0,3.0,"V, V, E, E, V",3
+36,Sat,12/13/2025,,grêmio,,,,palmeiras,,,,Head-to-Head,,15.0,1.0,0.68,1.375,,,5.0,6.0,5.0,2.0,"V, E, D, E, E",1
+36,Sat,12/13/2025,,rb bragantino,,,,fortaleza,,,,Head-to-Head,,3.0,11.0,1.425,0.9750000000000001,,,5.0,2.0,2.0,3.0,"V, E, D, V, V",3
+36,Sat,12/13/2025,,juventude,,,,bahia,,,,Head-to-Head,,18.0,8.0,1.175,0.9,,,6.0,3.0,4.0,6.0,"D, D, D, D, E",0
+,,,,,,,,,,,,,,,,,,,,,,,,,0
+37,Wed,12/17/2025,,juventude,,,,santos,,,,Head-to-Head,,18.0,19.0,1.175,1.025,,,6.0,2.0,4.0,6.0,"D, D, D, D, E",0
+37,Wed,12/17/2025,,fortaleza,,,,corinthians,,,,Head-to-Head,,11.0,10.0,1.35,0.575,,,8.0,2.0,2.0,9.0,"E, V, E, E, D",1
+37,Wed,12/17/2025,,vasco da gama,,,,mirassol,,,,Head-to-Head,,17.0,12.0,0.9500000000000001,1.25,,,5.0,4.0,3.0,6.0,"D, D, D, D, E",0
+37,Wed,12/17/2025,,bahia,,,,sport recife,,,,Head-to-Head,,8.0,20.0,1.725,0.7,,,4.0,3.0,2.0,7.0,"V, D, E, V, V",3
+37,Wed,12/17/2025,,grêmio,,,,fluminense,,,,Head-to-Head,,15.0,5.0,0.68,0.7749999999999999,,,5.0,4.0,5.0,7.0,"V, E, D, E, E",1
+37,Wed,12/17/2025,,flamengo,,,,ceará,,,,Head-to-Head,,2.0,6.0,2.175,1.075,,,12.0,3.0,1.0,5.0,"D, V, V, V, E",3
+37,Wed,12/17/2025,,cruzeiro,,,,botafogo (rj),,,,Head-to-Head,,4.0,9.0,1.4,0.85,,,8.0,0.0,2.0,3.0,"V, V, D, V, D",3
+37,Wed,12/17/2025,,palmeiras,,,,vitória,,,,Head-to-Head,,1.0,14.0,1.375,0.8,,,3.0,3.0,1.0,6.0,"V, V, V, D, V",4
+37,Wed,12/17/2025,,são paulo,,,,internacional,,,,Head-to-Head,,16.0,13.0,1.575,0.9400000000000001,,,3.0,4.0,2.0,10.0,"E, D, E, E, V",1
+37,Wed,12/17/2025,,rb bragantino,,,,atlético mineiro,,,,Head-to-Head,,3.0,7.0,1.425,1.65,,,5.0,4.0,2.0,6.0,"V, E, D, V, V",3
+,,,,,,,,,,,,,,,,,,,,,,,,,0
+38,Sun,12/21/2025,,botafogo (rj),,,,fortaleza,,,,Head-to-Head,,9.0,11.0,1.25,0.9750000000000001,,,10.0,2.0,2.0,3.0,"D, V, V, V, D",3
+38,Sun,12/21/2025,,internacional,,,,rb bragantino,,,,Head-to-Head,,13.0,3.0,1.5666666666666667,1.125,,,6.0,5.0,2.0,4.0,"D, D, V, V, E",2
+38,Sun,12/21/2025,,santos,,,,cruzeiro,,,,Head-to-Head,,19.0,4.0,1.225,0.9,,,5.0,5.0,4.0,5.0,"D, E, E, D, D",0
+38,Sun,12/21/2025,,ceará,,,,palmeiras,,,,Head-to-Head,,6.0,1.0,1.275,1.375,,,6.0,6.0,2.0,2.0,"V, E, V, E, D",2
+38,Sun,12/21/2025,,fluminense,,,,bahia,,,,Head-to-Head,,5.0,8.0,1.425,0.9,,,6.0,3.0,3.0,6.0,"V, D, V, D, E",2
+38,Sun,12/21/2025,,atlético mineiro,,,,vasco da gama,,,,Head-to-Head,,7.0,17.0,1.575,0.8,,,6.0,2.0,4.0,8.0,"V, V, E, E, V",3
+38,Sun,12/21/2025,,mirassol,,,,flamengo,,,,Head-to-Head,,12.0,2.0,1.975,1.2,,,9.0,5.0,5.0,3.0,"D, V, E, E, E",1
+38,Sun,12/21/2025,,vitória,,,,são paulo,,,,Head-to-Head,,14.0,16.0,1.0,0.775,,,6.0,3.0,5.0,4.0,"D, V, D, E, E",1
+38,Sun,12/21/2025,,sport recife,,,,grêmio,,,,Head-to-Head,,20.0,15.0,0.9,1.0666666666666667,,,1.0,2.0,7.0,7.0,"D, D, D, E, D",0
+38,Sun,12/21/2025,,corinthians,,,,juventude,,,,,,10.0,18.0,1.875,0.3,,,9.0,1.0,5.0,16.0,"V, D, V, D, V",3
