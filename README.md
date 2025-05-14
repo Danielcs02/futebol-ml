@@ -1,6 +1,19 @@
-# ⚽ Previsão de Gols na Premier League
+# ⚽ Previsão de Gols no Campeonato Brasileiro de Futebol
 
-Projeto de machine learning para prever a **quantidade total de gols** em partidas da Premier League, usando dados públicos do FBref e métricas como xG (expected goals).
+Projeto de machine learning para prever a **quantidade total de gols** em partidas do Campeonato Brasileiro, usando dados públicos do FBref e métricas como xG (expected goals).
+
+
+## 📊 Variáveis usadas pelo Modelo para fazer as projeções
+Variáveis utilizadas no modelo:
+- Home_xG_Avg: Média de xG (gols esperados) para o time da casa jogando em casa.
+- Away_xG_Avg: Média de xG para o time visitante jogando fora de casa.
+- Team_Rank: Ranking (posição) do time da casa no campeonato.
+- Away_Team_Rank: Ranking (posição) do time visitante no campeonato.
+- Total_Goals_For: Total de gols feitos pelo time da casa no campeonato inteiro.
+- Home_Goals_Against: Total de gols sofridos pelo time da casa no campeonato inteiro.
+- Total_Goals_Against: Total de gols feitos pelo time visitante no campeonato inteiro.
+- Away_Goals_Against: Total de gols sofridos pelo time visitante no campeonato inteiro.
+- Last_5_Wins: Número de vitórias nos últimos 5 jogos de cada time (com base nos placares anteriores).
 
 ## 📊 Tecnologias utilizadas
 - Python
