@@ -9,14 +9,14 @@ st.set_page_config(page_title="Previsões Brasileirão", layout="wide")
 # Carregar modelo
 @st.cache_resource
 def carregar_modelo():
-    return joblib.load("models/modelo_brasileirao_xgb.pkl")
+    return joblib.load("../models/modelo_brasileirao_xgb.pkl")
 
 modelo = carregar_modelo()
 
 # Carregar dados históricos
 @st.cache_data
 def carregar_dados():
-    return pd.read_csv("data/brasileirao/brasileirao_scores.csv", encoding='cp1252')
+    return pd.read_csv("../data/brasileirao/brasileirao_scores.csv", encoding='cp1252')
 
 df = carregar_dados()
 
@@ -30,45 +30,54 @@ features_usadas = [
 # Título
 st.title("⚽ Previsões de Gols - Brasileirão")
 
-# Selecionar rodada
-rodadas_disponiveis = sorted(df["k"].dropna().unique())
-rodada = st.selectbox("Escolha a rodada:", rodadas_disponiveis)
+# Seleção dos times
+times_casa = sorted(df["Home"].dropna().astype(str).unique())
+time_casa = st.selectbox("Selecione o time da casa", times_casa)
+times_fora = sorted(df["Away"].dropna().astype(str).unique())
+time_fora = st.selectbox("Selecione o time visitante", times_fora)
 
-# Filtrar confrontos da rodada
-confrontos_df = df[df["k"] == rodada][["Home", "Away"]]
-confrontos_lista = confrontos_df.apply(lambda row: f"{row['Home']} x {row['Away']}", axis=1).tolist()
-jogo_escolhido = st.selectbox("Escolha o confronto:", confrontos_lista)
+# Previsão se ambos os times forem selecionados e diferentes
+if time_casa and time_fora and time_casa != time_fora:
+    linha_casa = df[(df["Home"] == time_casa) & (df["Away"] == time_fora)]
 
-# Prever e exibir estatísticas
-if jogo_escolhido:
-    time_casa, time_fora = jogo_escolhido.split(" x ")
-    linha_jogo = df[(df["Home"] == time_casa) & (df["Away"] == time_fora)]
-
-    if not linha_jogo.empty:
-        linha = linha_jogo.iloc[0]
-        st.write("🧩 Colunas disponíveis na linha selecionada:", linha.index.tolist())
-        X_jogo = linha[features_usadas].to_frame().T
+    if not linha_casa.empty:
+        # Preparar entrada para previsão dos gols do mandante
+        linha_casa = linha_casa.iloc[0]
+        X_casa = linha_casa[features_usadas].to_frame().T
 
         # Imputação
         imputer = SimpleImputer(strategy='mean')
-        X_imputado = imputer.fit_transform(df[features_usadas])  # fit no dataset inteiro
-        X_jogo_imputado = imputer.transform(X_jogo)
+        imputer.fit(df[features_usadas])
+        X_casa_imputado = imputer.transform(X_casa)
 
-        # Previsão
-        pred = modelo.predict(X_jogo_imputado)
-        st.metric("🔮 Gols previstos para o mandante", f"{pred[0]:.2f}")
+        # Previsão dos gols do mandante
+        gols_casa = modelo.predict(X_casa_imputado)[0]
 
-        # Estatísticas dos times
-        st.subheader("📊 Estatísticas recentes do time da casa")
-        st.dataframe(df[df["Home"] == time_casa][features_usadas].describe())
+        # Tentar prever gols do visitante (invertendo os times)
+        linha_fora = df[(df["Home"] == time_fora) & (df["Away"] == time_casa)]
 
-        st.subheader("📊 Estatísticas recentes do time visitante")
-        st.dataframe(df[df["Away"] == time_fora][features_usadas].describe())
+        if not linha_fora.empty:
+            linha_fora = linha_fora.iloc[0]
+            X_fora = linha_fora[features_usadas].to_frame().T
+            X_fora_imputado = imputer.transform(X_fora)
+            gols_fora = modelo.predict(X_fora_imputado)[0]
+        else:
+            gols_fora = None
+
+        # Exibir resultados
+        st.subheader("🎯 Previsões de Gols")
+        st.metric("🔵 Gols previstos para o time da casa", f"{gols_casa:.2f}")
+
+        if gols_fora is not None:
+            st.metric("🟡 Gols previstos para o time visitante", f"{gols_fora:.2f}")
+            st.metric("⚖️ Placar total previsto", f"{(gols_casa + gols_fora):.2f}")
+        else:
+            st.info("⚠️ Não há dados suficientes para prever os gols do visitante (inverso do confronto).")
 
 # Tabela do Brasileirão
 st.header("📊 Tabela Atual do Brasileirão")
 try:
-    tabela = pd.read_csv("data/brasileirao/tabela_brasileirao.csv", encoding='utf-8-sig')
+    tabela = pd.read_csv("../data/brasileirao/tabela_brasileirao.csv", encoding='utf-8-sig')
     st.dataframe(tabela)
 except:
     st.warning("⚠️ Não foi possível carregar a tabela.")
